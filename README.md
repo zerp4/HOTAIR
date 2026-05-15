@@ -4,28 +4,28 @@ Structure is a window into the mechanism and function of an RNA. Therefore, we a
 
 This code is provided as-is for reproducibility purposes and may be reused freely under the MIT License. No guarantees are made regarding functionality in other environments or use cases.
 
-# Folder Contents
+## Folder Contents
 
-## Data_input
+### Data_input
 
 Minimal data input files required to reproduce the analyses in the Jupyter notebooks.
 
-## MSAs
+### MSAs
 
 Final MSAs of HOTAIR.
 
-## Reference_sequences
+### Reference_sequences
 
 Sequences used for alignment of SHAPE-MaP and MRT-ModSeq sequencing reads.
 
-## Scripts
+### Scripts
 
 - add_gaps_to_structure.py &rarr; add gaps to secondary structure as single-stranded positions to correspond to MSA
 - check_exon_scaffolds.sh &rarr; verify that hits from exon-aware searches are on the same scaffold
 - unwrap_stockholm.py &rarr; convert multiblock stockholm so that each sequence is on one line
 
 
-## Superfold_structures
+### Superfold_structures
 
 Final structures of HOTAIR from Superfold for the following samples:
 - *in cellulo* SHAPE-MaP rep 1
