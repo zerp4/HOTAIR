@@ -4,26 +4,15 @@ Structure is a window into the mechanism and function of an RNA. Therefore, we a
 
 This code is provided as-is for reproducibility purposes and may be reused freely under the MIT License. No guarantees are made regarding functionality in other environments or use cases.
 
-## Folder Contents
+## Contents
 
 ### Data_input
 
-Minimal data input files required to reproduce the analyses in the Jupyter notebooks.
-
-### MSAs
-
-Final MSAs of HOTAIR.
+All data files required to reproduce the analyses in the Jupyter notebooks.
 
 ### Reference_sequences
 
 Sequences used for alignment of SHAPE-MaP and MRT-ModSeq sequencing reads.
-
-### Scripts
-
-- add_gaps_to_structure.py &rarr; add gaps to secondary structure as single-stranded positions to correspond to MSA
-- check_exon_scaffolds.sh &rarr; verify that hits from exon-aware searches are on the same scaffold
-- unwrap_stockholm.py &rarr; convert multiblock stockholm so that each sequence is on one line
-
 
 ### Superfold_structures
 
@@ -34,26 +23,28 @@ Final structures of HOTAIR from Superfold for the following samples:
 - *in vitro* SHAPE-MaP rep 1
 - *in vitro* SHAPE-MaP rep 2
 - *in vitro* SHAPE-MaP average
+  
+### Trees
+
+Phylogenetic tree generated from the full-length MSA of HOTAIR that was clustered by 95% (Maximum Likelihood, General Time Reversible) 
 
 # Structure Pipeline
 
 Analysis of SHAPE-MaP chemical probing data of HOTAIR *in cellulo* and *in vitro*. Includes quality control metrics and identification of structurally significant regions using chemical reactivity and Shannon entropy metrics. To follow along with the analysis, the following files are required:
 
 - HOTAIR_Structure_Probing_Analysis.ipynb
-- etc...
+- Data_input/Structure_Analysis/Supplemental_Data_2_HOTAIR_SHAPE-MaP.xlsx
+- Data_input/Structure_Analysis/Supplemental_Data_3_HOTAIR_deltaSHAPE.xlsx
 
 # Bioinformatics Pipeline
 
-The bioinformatics pipeline from Beeram et al [link] was applied to HOTAIR to generate the alignments in **1. Exon-aware and Full-length Searches**. All subsequent steps are based on those alignments. To follow along with the analysis, the following files are required:
+The bioinformatics pipeline from [https://github.com/pylelab/NcRNA_Evolution_in_Primates] was applied to HOTAIR to generate the alignments in **Step 1. Genome Searches**. All subsequent steps are based on those alignments. All files required for the analysis in HOTAIR_Conservation_and_Covariation_Analysis.ipynb are included in the subfolders of Data_input/Bioinformatics_Pipeline.
 
-- HOTAIR_Conservation_and_Covariation_Analysis.ipynb
-- etc...
+## Step 1. Genome Searches
 
-## Step 1 Genome Searches
+### 1.1 Full-length Search
 
-### Step 1.1 Full-length Search
-
-### Step 1.2 Exon-aware Searches
+### 1.2 Exon-aware Searches
 
 ## Step 2. Scaffold Validation
 
@@ -86,10 +77,10 @@ The following alignments are included. Primate alignments were extracted from th
 
 ### 6.3_R-scape_Results
 
-# References
+## References
 
 Primate genomes sourced from: Kuderna LFK, Gao H, Janiak MC, et al. A global catalog of whole-genome diversity from 233 primate species. Science. 2023;380(6648):906-913. doi:10.1126/science.abn7829
 
-Pipeline development: GitHub and Paper
+Pipeline development: [https://github.com/pylelab/NcRNA_Evolution_in_Primates]
 
 AI was used to assist with coding and debugging.
