@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/b7f7e6ff-4f1d-492d-9511-32161f0e18f4" /># HOTAIR
+# HOTAIR
 
 Structure is a window into the mechanism and function of an RNA. Therefore, we applied SHAPE-MaP chemical probing to determine the secondary structure of the lncRNA HOTAIR *in cellulo* and *in vitro*. We determined the global architecture of HOTAIR in cells, as well as local structural differences relative to *in vitro*. The structural work was complemented by developing a bioinformatics pipeline to identify HOTAIR loci within primate genomes and then building multiple sequence alignments to evaluate conservation. Our alignments also reveal covariation within a specific structural domain of HOTAIR, providing evidence in favor of functional structural elements in HOTAIR. These results can serve as a roadmap for future mechanistic studies of structure-function relationships in HOTAIR.
 
