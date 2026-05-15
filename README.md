@@ -88,4 +88,8 @@ The following alignments are included. Primate alignments were extracted from th
 
 # References
 
+Primate genomes sourced from: Kuderna LFK, Gao H, Janiak MC, et al. A global catalog of whole-genome diversity from 233 primate species. Science. 2023;380(6648):906-913. doi:10.1126/science.abn7829
+
+Pipeline development: GitHub and Paper
+
 AI was used to assist with coding and debugging.
