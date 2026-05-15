@@ -20,10 +20,9 @@ Sequences used for alignment of SHAPE-MaP and MRT-ModSeq sequencing reads.
 
 ### Scripts
 
-Analysis scripts:
-- add_gaps_to_structure.py :arrow_right: add gaps to secondary structure as single-stranded positions to correspond to MSA
-- check_exon_scaffolds.sh :arrow_right: verify that hits from exon-aware searches are on the same scaffold
-- unwrap_stockholm.py :arrow_right: convert multiblock stockholm so that each sequence is on one line
+- add_gaps_to_structure.py --> add gaps to secondary structure as single-stranded positions to correspond to MSA
+- check_exon_scaffolds.sh --> verify that hits from exon-aware searches are on the same scaffold
+- unwrap_stockholm.py --> convert multiblock stockholm so that each sequence is on one line
 
 
 ### Superfold_structures
