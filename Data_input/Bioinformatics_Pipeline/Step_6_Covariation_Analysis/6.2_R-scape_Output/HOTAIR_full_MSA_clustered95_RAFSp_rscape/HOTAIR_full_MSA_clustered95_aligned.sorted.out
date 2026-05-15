@@ -1,0 +1,5 @@
+# MSA HOTAIR_full_MSA_clustered95_aligned_1 nseq 28 (28) alen 2174 (2830) avgid 85.35 (84.07) nbpairs 0 (0)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.71,1.21]     [0 | 0 0 0 | 0.00 0.00 0.00] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------

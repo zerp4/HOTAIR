@@ -1,0 +1,2 @@
+left_pos	right_pos
+77	     103

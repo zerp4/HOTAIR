@@ -1,0 +1,59 @@
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_1-500 nseq 28 (28) alen 438 (500) avgid 86.51 (86.06) nbpairs 86 (86)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.68,1.08]     [0 | 1 86 1 | 1.16 100.00 2.30] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     318	     357	0.77	0.044096
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_101-600 nseq 28 (28) alen 343 (500) avgid 85.26 (84.20) nbpairs 54 (54)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.69,1.07]     [0 | 1 54 1 | 1.85 100.00 3.64] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     318	     357	0.77	0.0364674
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_201-700 nseq 28 (28) alen 247 (500) avgid 85.71 (84.46) nbpairs 45 (45)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.69,1.07]     [0 | 1 45 1 | 2.22 100.00 4.35] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     318	     357	0.76	0.0305648
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_301-800 nseq 28 (28) alen 190 (500) avgid 86.34 (85.98) nbpairs 36 (36)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.69,1.07]     [0 | 2 36 2 | 5.56 100.00 10.53] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     318	     357	0.77	0.0225948
+*	     450	     460	0.73	0.0412948
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_401-900 nseq 28 (28) alen 129 (500) avgid 84.25 (83.93) nbpairs 12 (12)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.68,1.07]     [0 | 4 12 4 | 33.33 100.00 50.00] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     878	     887	0.80	0.00498173
+*	     450	     460	0.72	0.0146629
+*	     446	     464	0.67	0.0333397
+*	     451	     459	0.65	0.0374277
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_501-1000 nseq 28 (28) alen 109 (500) avgid 79.27 (78.60) nbpairs 9 (9)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.71,1.10]     [0 | 4 9 4 | 44.44 100.00 61.54] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     932	     965	0.83	0.00530002
+*	     878	     887	0.80	0.00791997
+*	     891	     902	0.73	0.0175279
+*	     933	     942	0.65	0.0420299
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_601-1100 nseq 28 (28) alen 201 (500) avgid 81.23 (80.08) nbpairs 25 (25)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.69,1.12]     [0 | 3 25 3 | 12.00 100.00 21.43] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     932	     965	0.83	0.00910599
+*	     878	     887	0.80	0.0131125
+*	     891	     902	0.76	0.0212506
+# MSA HOTAIR_full_MSA_clustered95_D3_SS_1_701-1162 nseq 28 (28) alen 260 (462) avgid 82.37 (81.23) nbpairs 44 (44)
+# Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
+# RAFSp    0.05         [-0.68,1.11]     [0 | 3 44 3 | 6.82 100.00 12.77] 
+#       left_pos       right_pos        score   E-value
+#------------------------------------------------------------
+*	     932	     965	0.83	0.01408
+*	     878	     887	0.81	0.0200711
+*	     891	     902	0.76	0.0405435

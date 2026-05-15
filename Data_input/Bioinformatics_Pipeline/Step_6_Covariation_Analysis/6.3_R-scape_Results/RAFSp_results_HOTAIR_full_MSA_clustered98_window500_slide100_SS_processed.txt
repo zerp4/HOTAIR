@@ -1,0 +1,2 @@
+left_pos	right_pos	left_pos_ungapped	right_pos_ungapped	nucleotide
+77	103	69	95	A:U

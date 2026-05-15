@@ -1,0 +1,212 @@
+All exons in CAUYLE01 are found on the same scaffold (ENA|CAUYLE010008993|CAUYLE010008993.1).
+All exons in CAUYLF01 are found on the same scaffold (ENA|CAUYLF010013881|CAUYLF010013881.1).
+All exons in CAUYLG01 are found on the same scaffold (ENA|CAUYLG010074088|CAUYLG010074088.1).
+All exons in CAUYLL01 are found on the same scaffold (ENA|CAUYLL010013084|CAUYLL010013084.1).
+All exons in CAUYLM01 are found on the same scaffold (ENA|CAUYLM010085612|CAUYLM010085612.1).
+All exons in CAUYLW01 are found on the same scaffold (ENA|CAUYLW010068057|CAUYLW010068057.1).
+All exons in CAUYLY01 are found on the same scaffold (ENA|CAUYLY010029261|CAUYLY010029261.1).
+All exons in CAUYLZ01 are found on the same scaffold (ENA|CAUYLZ010112762|CAUYLZ010112762.1).
+All exons in CAUYMA01 are found on the same scaffold (ENA|CAUYMA010043235|CAUYMA010043235.1).
+All exons in CAUYMB01 are found on the same scaffold (ENA|CAUYMB010025239|CAUYMB010025239.1).
+All exons in CAUYMC01 are found on the same scaffold (ENA|CAUYMC010056257|CAUYMC010056257.1).
+All exons in CAUYMD01 are found on the same scaffold (ENA|CAUYMD010017381|CAUYMD010017381.1).
+All exons in CAUYME01 are found on the same scaffold (ENA|CAUYME010082180|CAUYME010082180.1).
+All exons in CAUYMF01 are found on the same scaffold (ENA|CAUYMF010084314|CAUYMF010084314.1).
+All exons in CAUYML01 are found on the same scaffold (ENA|CAUYML010066715|CAUYML010066715.1).
+All exons in CAUYMN01 are found on the same scaffold (ENA|CAUYMN010069262|CAUYMN010069262.1).
+All exons in CAUYMO01 are found on the same scaffold (ENA|CAUYMO010016704|CAUYMO010016704.1).
+All exons in CAUYMP01 are found on the same scaffold (ENA|CAUYMP010100697|CAUYMP010100697.1).
+All exons in CAUYMR01 are found on the same scaffold (ENA|CAUYMR010094547|CAUYMR010094547.1).
+All exons in CAUYMV01 are found on the same scaffold (ENA|CAUYMV010010500|CAUYMV010010500.1).
+All exons in CAUYMX01 are found on the same scaffold (ENA|CAUYMX010017692|CAUYMX010017692.1).
+All exons in CAUYMY01 are found on the same scaffold (ENA|CAUYMY010041389|CAUYMY010041389.1).
+All exons in CAUYMZ01 are found on the same scaffold (ENA|CAUYMZ010111185|CAUYMZ010111185.1).
+All exons in CAUYNA01 are found on the same scaffold (ENA|CAUYNA010011953|CAUYNA010011953.1).
+All exons in CAUYNB01 are found on the same scaffold (ENA|CAUYNB010028891|CAUYNB010028891.1).
+All exons in CAUYNC01 are found on the same scaffold (ENA|CAUYNC010084315|CAUYNC010084315.1).
+All exons in CAUYND01 are found on the same scaffold (ENA|CAUYND010058214|CAUYND010058214.1).
+All exons in CAUYNE01 are found on the same scaffold (ENA|CAUYNE010074069|CAUYNE010074069.1).
+All exons in CAUYNF01 are found on the same scaffold (ENA|CAUYNF010009974|CAUYNF010009974.1).
+All exons in CAUYNG01 are found on the same scaffold (ENA|CAUYNG010007523|CAUYNG010007523.1).
+All exons in CAUYNH01 are found on the same scaffold (ENA|CAUYNH010094416|CAUYNH010094416.1).
+All exons in CAUYNI01 are found on the same scaffold (ENA|CAUYNI010060410|CAUYNI010060410.1).
+All exons in CAUYNJ01 are found on the same scaffold (ENA|CAUYNJ010077673|CAUYNJ010077673.1).
+All exons in CAUYNK01 are found on the same scaffold (ENA|CAUYNK010050922|CAUYNK010050922.1).
+All exons in CAUYNL01 are found on the same scaffold (ENA|CAUYNL010072177|CAUYNL010072177.1).
+All exons in CAUYNM01 are found on the same scaffold (ENA|CAUYNM010121727|CAUYNM010121727.1).
+All exons in CAUYNN01 are found on the same scaffold (ENA|CAUYNN010050510|CAUYNN010050510.1).
+All exons in CAUYNO01 are found on the same scaffold (ENA|CAUYNO010150283|CAUYNO010150283.1).
+All exons in CAUYNP01 are found on the same scaffold (ENA|CAUYNP010084411|CAUYNP010084411.1).
+All exons in CAUYNQ01 are found on the same scaffold (ENA|CAUYNQ010157529|CAUYNQ010157529.1).
+All exons in CAUYNR01 are found on the same scaffold (ENA|CAUYNR010174448|CAUYNR010174448.1).
+All exons in CAUYNS01 are found on the same scaffold (ENA|CAUYNS010056374|CAUYNS010056374.1).
+All exons in CAUYNT01 are found on the same scaffold (ENA|CAUYNT010072483|CAUYNT010072483.1).
+All exons in CAUYNU01 are found on the same scaffold (ENA|CAUYNU010057524|CAUYNU010057524.1).
+All exons in CAUYNV01 are found on the same scaffold (ENA|CAUYNV010087218|CAUYNV010087218.1).
+Warning: CAUYNW01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYNW010019084|CAUYNW010019084.1
+ENA|CAUYNW010031625|CAUYNW010031625.1
+All exons in CAUYNX01 are found on the same scaffold (ENA|CAUYNX010117822|CAUYNX010117822.1).
+All exons in CAUYNY01 are found on the same scaffold (ENA|CAUYNY010162787|CAUYNY010162787.1).
+All exons in CAUYNZ01 are found on the same scaffold (ENA|CAUYNZ010137076|CAUYNZ010137076.1).
+All exons in CAUYOA01 are found on the same scaffold (ENA|CAUYOA010121285|CAUYOA010121285.1).
+All exons in CAUYOB01 are found on the same scaffold (ENA|CAUYOB010128961|CAUYOB010128961.1).
+All exons in CAUYOC01 are found on the same scaffold (ENA|CAUYOC010085548|CAUYOC010085548.1).
+All exons in CAUYOD01 are found on the same scaffold (ENA|CAUYOD010009321|CAUYOD010009321.1).
+All exons in CAUYOE01 are found on the same scaffold (ENA|CAUYOE010029555|CAUYOE010029555.1).
+All exons in CAUYOF01 are found on the same scaffold (ENA|CAUYOF010118594|CAUYOF010118594.1).
+All exons in CAUYOG01 are found on the same scaffold (ENA|CAUYOG010035001|CAUYOG010035001.1).
+All exons in CAUYOH01 are found on the same scaffold (ENA|CAUYOH010023766|CAUYOH010023766.1).
+All exons in CAUYOI01 are found on the same scaffold (ENA|CAUYOI010158508|CAUYOI010158508.1).
+All exons in CAUYOJ01 are found on the same scaffold (ENA|CAUYOJ010042937|CAUYOJ010042937.1).
+All exons in CAUYOK01 are found on the same scaffold (ENA|CAUYOK010012042|CAUYOK010012042.1).
+All exons in CAUYOL01 are found on the same scaffold (ENA|CAUYOL010059743|CAUYOL010059743.1).
+All exons in CAUYOM01 are found on the same scaffold (ENA|CAUYOM010155108|CAUYOM010155108.1).
+All exons in CAUYON01 are found on the same scaffold (ENA|CAUYON010094470|CAUYON010094470.1).
+All exons in CAUYOO01 are found on the same scaffold (ENA|CAUYOO010058463|CAUYOO010058463.1).
+All exons in CAUYOP01 are found on the same scaffold (ENA|CAUYOP010031024|CAUYOP010031024.1).
+All exons in CAUYOQ01 are found on the same scaffold (ENA|CAUYOQ010189609|CAUYOQ010189609.1).
+All exons in CAUYOR01 are found on the same scaffold (ENA|CAUYOR010097117|CAUYOR010097117.1).
+All exons in CAUYOS01 are found on the same scaffold (ENA|CAUYOS010102800|CAUYOS010102800.1).
+All exons in CAUYOT01 are found on the same scaffold (ENA|CAUYOT010117961|CAUYOT010117961.1).
+All exons in CAUYOU01 are found on the same scaffold (ENA|CAUYOU010058323|CAUYOU010058323.1).
+All exons in CAUYOV01 are found on the same scaffold (ENA|CAUYOV010046883|CAUYOV010046883.1).
+All exons in CAUYOW01 are found on the same scaffold (ENA|CAUYOW010043029|CAUYOW010043029.1).
+All exons in CAUYOX01 are found on the same scaffold (ENA|CAUYOX010120393|CAUYOX010120393.1).
+All exons in CAUYOY01 are found on the same scaffold (ENA|CAUYOY010080238|CAUYOY010080238.1).
+All exons in CAUYOZ01 are found on the same scaffold (ENA|CAUYOZ010109202|CAUYOZ010109202.1).
+All exons in CAUYPA01 are found on the same scaffold (ENA|CAUYPA010097126|CAUYPA010097126.1).
+All exons in CAUYPB01 are found on the same scaffold (ENA|CAUYPB010081355|CAUYPB010081355.1).
+All exons in CAUYPC01 are found on the same scaffold (ENA|CAUYPC010079578|CAUYPC010079578.1).
+All exons in CAUYPD01 are found on the same scaffold (ENA|CAUYPD010052320|CAUYPD010052320.1).
+Warning: CAUYPE01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYPE010001550|CAUYPE010001550.1
+ENA|CAUYPE010049243|CAUYPE010049243.1
+All exons in CAUYPF01 are found on the same scaffold (ENA|CAUYPF010145981|CAUYPF010145981.1).
+All exons in CAUYPG01 are found on the same scaffold (ENA|CAUYPG010131204|CAUYPG010131204.1).
+All exons in CAUYPH01 are found on the same scaffold (ENA|CAUYPH010061124|CAUYPH010061124.1).
+All exons in CAUYPI01 are found on the same scaffold (ENA|CAUYPI010163917|CAUYPI010163917.1).
+All exons in CAUYPJ01 are found on the same scaffold (ENA|CAUYPJ010043827|CAUYPJ010043827.1).
+All exons in CAUYPK01 are found on the same scaffold (ENA|CAUYPK010099093|CAUYPK010099093.1).
+Warning: CAUYPL01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYPL010101116|CAUYPL010101116.1
+ENA|CAUYPL010137103|CAUYPL010137103.1
+All exons in CAUYPM01 are found on the same scaffold (ENA|CAUYPM010147125|CAUYPM010147125.1).
+All exons in CAUYPN01 are found on the same scaffold (ENA|CAUYPN010052043|CAUYPN010052043.1).
+All exons in CAUYPO01 are found on the same scaffold (ENA|CAUYPO010106446|CAUYPO010106446.1).
+All exons in CAUYPP01 are found on the same scaffold (ENA|CAUYPP010139011|CAUYPP010139011.1).
+All exons in CAUYPQ01 are found on the same scaffold (ENA|CAUYPQ010142232|CAUYPQ010142232.1).
+All exons in CAUYPR01 are found on the same scaffold (ENA|CAUYPR010023906|CAUYPR010023906.1).
+All exons in CAUYPS01 are found on the same scaffold (ENA|CAUYPS010172652|CAUYPS010172652.1).
+Warning: CAUYPT01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYPT010064620|CAUYPT010064620.1
+ENA|CAUYPT010256472|CAUYPT010256472.1
+All exons in CAUYPU01 are found on the same scaffold (ENA|CAUYPU010137887|CAUYPU010137887.1).
+All exons in CAUYPV01 are found on the same scaffold (ENA|CAUYPV010072083|CAUYPV010072083.1).
+All exons in CAUYPW01 are found on the same scaffold (ENA|CAUYPW010167281|CAUYPW010167281.1).
+Warning: CAUYPX01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYPX010028214|CAUYPX010028214.1
+ENA|CAUYPX010321431|CAUYPX010321431.1
+Warning: CAUYPY01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYPY010071529|CAUYPY010071529.1
+ENA|CAUYPY010244512|CAUYPY010244512.1
+All exons in CAUYPZ01 are found on the same scaffold (ENA|CAUYPZ010079025|CAUYPZ010079025.1).
+All exons in CAUYQA01 are found on the same scaffold (ENA|CAUYQA010148541|CAUYQA010148541.1).
+All exons in CAUYQB01 are found on the same scaffold (ENA|CAUYQB010090169|CAUYQB010090169.1).
+All exons in CAUYQC01 are found on the same scaffold (ENA|CAUYQC010247519|CAUYQC010247519.1).
+All exons in CAUYQD01 are found on the same scaffold (ENA|CAUYQD010265149|CAUYQD010265149.1).
+Warning: CAUYQE01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYQE010005970|CAUYQE010005970.1
+ENA|CAUYQE010100658|CAUYQE010100658.1
+All exons in CAUYQF01 are found on the same scaffold (ENA|CAUYQF010228472|CAUYQF010228472.1).
+All exons in CAUYQG01 are found on the same scaffold (ENA|CAUYQG010261288|CAUYQG010261288.1).
+Warning: CAUYQH01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYQH010033483|CAUYQH010033483.1
+ENA|CAUYQH010108633|CAUYQH010108633.1
+All exons in CAUYQI01 are found on the same scaffold (ENA|CAUYQI010059440|CAUYQI010059440.1).
+All exons in CAUYQJ01 are found on the same scaffold (ENA|CAUYQJ010110983|CAUYQJ010110983.1).
+All exons in CAUYQK01 are found on the same scaffold (ENA|CAUYQK010029282|CAUYQK010029282.1).
+All exons in CAUYQL01 are found on the same scaffold (ENA|CAUYQL010159383|CAUYQL010159383.1).
+All exons in CAUYQM01 are found on the same scaffold (ENA|CAUYQM010058430|CAUYQM010058430.1).
+All exons in CAUYQN01 are found on the same scaffold (ENA|CAUYQN010147299|CAUYQN010147299.1).
+All exons in CAUYQO01 are found on the same scaffold (ENA|CAUYQO010044620|CAUYQO010044620.1).
+All exons in CAUYQP01 are found on the same scaffold (ENA|CAUYQP010012686|CAUYQP010012686.1).
+All exons in CAUYQQ01 are found on the same scaffold (ENA|CAUYQQ010150436|CAUYQQ010150436.1).
+All exons in CAUYQR01 are found on the same scaffold (ENA|CAUYQR010059079|CAUYQR010059079.1).
+All exons in CAUYQS01 are found on the same scaffold (ENA|CAUYQS010033809|CAUYQS010033809.1).
+All exons in CAUYQT01 are found on the same scaffold (ENA|CAUYQT010092567|CAUYQT010092567.1).
+All exons in CAUYQU01 are found on the same scaffold (ENA|CAUYQU010097950|CAUYQU010097950.1).
+All exons in CAUYQV01 are found on the same scaffold (ENA|CAUYQV010156555|CAUYQV010156555.1).
+All exons in CAUYQW01 are found on the same scaffold (ENA|CAUYQW010129319|CAUYQW010129319.1).
+All exons in CAUYQX01 are found on the same scaffold (ENA|CAUYQX010023791|CAUYQX010023791.1).
+All exons in CAUYQY01 are found on the same scaffold (ENA|CAUYQY010061953|CAUYQY010061953.1).
+All exons in CAUYQZ01 are found on the same scaffold (ENA|CAUYQZ010129763|CAUYQZ010129763.1).
+All exons in CAUYRB01 are found on the same scaffold (ENA|CAUYRB010054320|CAUYRB010054320.1).
+All exons in CAUYRC01 are found on the same scaffold (ENA|CAUYRC010043109|CAUYRC010043109.1).
+All exons in CAUYRH01 are found on the same scaffold (ENA|CAUYRH010043891|CAUYRH010043891.1).
+All exons in CAUYRI01 are found on the same scaffold (ENA|CAUYRI010107270|CAUYRI010107270.1).
+All exons in CAUYRK01 are found on the same scaffold (ENA|CAUYRK010049840|CAUYRK010049840.1).
+All exons in CAUYRL01 are found on the same scaffold (ENA|CAUYRL010103258|CAUYRL010103258.1).
+All exons in CAUYRM01 are found on the same scaffold (ENA|CAUYRM010152759|CAUYRM010152759.1).
+All exons in CAUYRN01 are found on the same scaffold (ENA|CAUYRN010095742|CAUYRN010095742.1).
+All exons in CAUYRP01 are found on the same scaffold (ENA|CAUYRP010099271|CAUYRP010099271.1).
+All exons in CAUYRQ01 are found on the same scaffold (ENA|CAUYRQ010025227|CAUYRQ010025227.1).
+All exons in CAUYRR01 are found on the same scaffold (ENA|CAUYRR010133445|CAUYRR010133445.1).
+All exons in CAUYRS01 are found on the same scaffold (ENA|CAUYRS010155296|CAUYRS010155296.1).
+Warning: CAUYRT01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYRT010048056|CAUYRT010048056.1
+ENA|CAUYRT010050616|CAUYRT010050616.1
+All exons in CAUYRU01 are found on the same scaffold (ENA|CAUYRU010037770|CAUYRU010037770.1).
+All exons in CAUYRV01 are found on the same scaffold (ENA|CAUYRV010084413|CAUYRV010084413.1).
+All exons in CAUYRW01 are found on the same scaffold (ENA|CAUYRW010093544|CAUYRW010093544.1).
+All exons in CAUYRX01 are found on the same scaffold (ENA|CAUYRX010072275|CAUYRX010072275.1).
+All exons in CAUYRY01 are found on the same scaffold (ENA|CAUYRY010094713|CAUYRY010094713.1).
+All exons in CAUYRZ01 are found on the same scaffold (ENA|CAUYRZ010078456|CAUYRZ010078456.1).
+All exons in CAUYSA01 are found on the same scaffold (ENA|CAUYSA010015877|CAUYSA010015877.1).
+All exons in CAUYSB01 are found on the same scaffold (ENA|CAUYSB010112817|CAUYSB010112817.1).
+All exons in CAUYSC01 are found on the same scaffold (ENA|CAUYSC010066127|CAUYSC010066127.1).
+All exons in CAUYSD01 are found on the same scaffold (ENA|CAUYSD010081031|CAUYSD010081031.1).
+All exons in CAUYSE01 are found on the same scaffold (ENA|CAUYSE010073857|CAUYSE010073857.1).
+All exons in CAUYSF01 are found on the same scaffold (ENA|CAUYSF010029186|CAUYSF010029186.1).
+All exons in CAUYSG01 are found on the same scaffold (ENA|CAUYSG010091532|CAUYSG010091532.1).
+All exons in CAUYSH01 are found on the same scaffold (ENA|CAUYSH010042717|CAUYSH010042717.1).
+All exons in CAUYSI01 are found on the same scaffold (ENA|CAUYSI010006745|CAUYSI010006745.1).
+All exons in CAUYSJ01 are found on the same scaffold (ENA|CAUYSJ010104367|CAUYSJ010104367.1).
+All exons in CAUYSK01 are found on the same scaffold (ENA|CAUYSK010065203|CAUYSK010065203.1).
+All exons in CAUYSL01 are found on the same scaffold (ENA|CAUYSL010084264|CAUYSL010084264.1).
+All exons in CAUYSM01 are found on the same scaffold (ENA|CAUYSM010202971|CAUYSM010202971.1).
+All exons in CAUYSN01 are found on the same scaffold (ENA|CAUYSN010140571|CAUYSN010140571.1).
+All exons in CAUYSO01 are found on the same scaffold (ENA|CAUYSO010062545|CAUYSO010062545.1).
+All exons in CAUYSP01 are found on the same scaffold (ENA|CAUYSP010171070|CAUYSP010171070.1).
+All exons in CAUYSQ01 are found on the same scaffold (ENA|CAUYSQ010068414|CAUYSQ010068414.1).
+All exons in CAUYSR01 are found on the same scaffold (ENA|CAUYSR010181063|CAUYSR010181063.1).
+All exons in CAUYSS01 are found on the same scaffold (ENA|CAUYSS010116682|CAUYSS010116682.1).
+All exons in CAUYST01 are found on the same scaffold (ENA|CAUYST010169730|CAUYST010169730.1).
+All exons in CAUYSU01 are found on the same scaffold (ENA|CAUYSU010168430|CAUYSU010168430.1).
+All exons in CAUYSW01 are found on the same scaffold (ENA|CAUYSW010130847|CAUYSW010130847.1).
+All exons in CAUYSX01 are found on the same scaffold (ENA|CAUYSX010056442|CAUYSX010056442.1).
+All exons in CAUYSY01 are found on the same scaffold (ENA|CAUYSY010020728|CAUYSY010020728.1).
+All exons in CAUYTA01 are found on the same scaffold (ENA|CAUYTA010068550|CAUYTA010068550.1).
+All exons in CAUYTB01 are found on the same scaffold (ENA|CAUYTB010054583|CAUYTB010054583.1).
+All exons in CAUYTD01 are found on the same scaffold (ENA|CAUYTD010063451|CAUYTD010063451.1).
+All exons in CAUYTE01 are found on the same scaffold (ENA|CAUYTE010148593|CAUYTE010148593.1).
+All exons in CAUYTF01 are found on the same scaffold (ENA|CAUYTF010014905|CAUYTF010014905.1).
+All exons in CAUYTG01 are found on the same scaffold (ENA|CAUYTG010023221|CAUYTG010023221.1).
+All exons in CAUYTH01 are found on the same scaffold (ENA|CAUYTH010089286|CAUYTH010089286.1).
+All exons in CAUYTI01 are found on the same scaffold (ENA|CAUYTI010161993|CAUYTI010161993.1).
+All exons in CAUYTJ01 are found on the same scaffold (ENA|CAUYTJ010042230|CAUYTJ010042230.1).
+All exons in CAUYTN01 are found on the same scaffold (ENA|CAUYTN010056664|CAUYTN010056664.1).
+All exons in CAUYTP01 are found on the same scaffold (ENA|CAUYTP010036250|CAUYTP010036250.1).
+All exons in CAUYTQ01 are found on the same scaffold (ENA|CAUYTQ010010797|CAUYTQ010010797.1).
+Warning: CAUYTR01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYTR010101542|CAUYTR010101542.1
+ENA|CAUYTR010113033|CAUYTR010113033.1
+All exons in CAUYTS01 are found on the same scaffold (ENA|CAUYTS010066369|CAUYTS010066369.1).
+Warning: CAUYTU01 contains multiple different scaffolds
+Scaffolds found: ENA|CAUYTU010025167|CAUYTU010025167.1
+ENA|CAUYTU010247167|CAUYTU010247167.1
+All exons in CAUYTV01 are found on the same scaffold (ENA|CAUYTV010051929|CAUYTV010051929.1).
+All exons in CAUYUD01 are found on the same scaffold (ENA|CAUYUD010147292|CAUYUD010147292.1).
+All exons in CAUYUF01 are found on the same scaffold (ENA|CAUYUF010021666|CAUYUF010021666.1).
+All exons in CAUYUG01 are found on the same scaffold (ENA|CAUYUG010019576|CAUYUG010019576.1).
+All exons in CAUYUH01 are found on the same scaffold (ENA|CAUYUH010219879|CAUYUH010219879.1).
