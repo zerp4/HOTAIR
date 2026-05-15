@@ -4,28 +4,28 @@ Structure is a window into the mechanism and function of an RNA. Therefore, we a
 
 This code is provided as-is for reproducibility purposes and may be reused freely under the MIT License. No guarantees are made regarding functionality in other environments or use cases.
 
-## Folder Contents
+# Folder Contents
 
-### Data_input
+## Data_input
 
 Minimal data input files required to reproduce the analyses in the Jupyter notebooks.
 
-### MSAs
+## MSAs
 
 Final MSAs of HOTAIR.
 
-### Reference_sequences
+## Reference_sequences
 
 Sequences used for alignment of SHAPE-MaP and MRT-ModSeq sequencing reads.
 
-### Scripts
+## Scripts
 
 - add_gaps_to_structure.py &rarr; add gaps to secondary structure as single-stranded positions to correspond to MSA
 - check_exon_scaffolds.sh &rarr; verify that hits from exon-aware searches are on the same scaffold
 - unwrap_stockholm.py &rarr; convert multiblock stockholm so that each sequence is on one line
 
 
-### Superfold_structures
+## Superfold_structures
 
 Final structures of HOTAIR from Superfold for the following samples:
 - *in cellulo* SHAPE-MaP rep 1
@@ -35,32 +35,57 @@ Final structures of HOTAIR from Superfold for the following samples:
 - *in vitro* SHAPE-MaP rep 2
 - *in vitro* SHAPE-MaP average
 
-## Structure
+# Structure Pipeline
 
 Analysis of SHAPE-MaP chemical probing data of HOTAIR *in cellulo* and *in vitro*. Includes quality control metrics and identification of structurally significant regions using chemical reactivity and Shannon entropy metrics. To follow along with the analysis, the following files are required:
 
 - HOTAIR_Structure_Probing_Analysis.ipynb
 - etc...
 
-## Bioinformatics
+# Bioinformatics Pipeline
 
 The bioinformatics pipeline from Beeram et al [link] was applied to HOTAIR to generate the alignments in **1. Exon-aware and Full-length Searches**. All subsequent steps are based on those alignments. To follow along with the analysis, the following files are required:
 
 - HOTAIR_Conservation_and_Covariation_Analysis.ipynb
 - etc...
 
-### 1. Exon-aware and Full-length Searches
+## Step 1 Genome Searches
 
-### 2. Scaffold Validation
+### Step 1.1 Full-length Search
 
-### 3. Merge MSA
+### Step 1.2 Exon-aware Searches
 
-### 4. Divergence Group MSAs
+## Step 2. Scaffold Validation
 
-### 5. Clustering
+### 2.1_Scaffold_Checks
 
-### 6. Covariation Analysis
+### 2.2_MSAs_of_Exons_on_Same_Scaffold
 
-## References
+### 2.3_Conservation_Results
+
+## Step 3. Concatenate MSA
+
+## Step 4. Divergence Group MSAs
+
+The following alignments are included. Primate alignments were extracted from the final alignment in Step 3.
+- human_mouse
+- primates_9MYA
+- primates_19MYA
+- primates_29MYA
+- primates_43MYA
+- primates_69MYA
+- primates_74MYA
+
+## Step 5. Clustering
+
+## Step 6. Covariation Analysis
+
+### 6.1_Prepare_MSAs_with_SS
+
+### 6.2_R-scape_Output
+
+### 6.3_R-scape_Results
+
+# References
 
 AI was used to assist with coding and debugging.
