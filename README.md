@@ -1,8 +1,40 @@
 # HOTAIR
 
-Structure is a window into the mechanism and function of an RNA. Therefore, we applied SHAPE-MaP chemical probing to determine the secondary structure of the lncRNA HOTAIR *in cellulo* and *in vitro*. We determined the global architecture of HOTAIR in cells, as well as local structural differences relative to *in vitro*. The structural work was complemented by developing a bioinformatics pipeline to identify HOTAIR loci within primate genomes and then building multiple sequence alignments to evaluate conservation. Our alignments reveal covariation within a specific structural domain of HOTAIR, providing evidence in favor of functional structural elements in HOTAIR. These results can serve as a roadmap for future mechanistic studies of structure-function relationships in HOTAIR.
+Structure is a window into the mechanism and function of an RNA. Therefore, we applied SHAPE-MaP chemical probing to determine the secondary structure of the lncRNA HOTAIR *in cellulo* and *in vitro*. We determined the global architecture of HOTAIR in cells, as well as local structural differences relative to *in vitro*. The structural work was complemented by developing a bioinformatics pipeline to identify HOTAIR loci within primate genomes and then building multiple sequence alignments to evaluate conservation. Our alignments also reveal covariation within a specific structural domain of HOTAIR, providing evidence in favor of functional structural elements in HOTAIR. These results can serve as a roadmap for future mechanistic studies of structure-function relationships in HOTAIR.
 
 This code is provided as-is for reproducibility purposes and may be reused freely under the MIT License. No guarantees are made regarding functionality in other environments or use cases.
+
+## Folder Contents
+
+### Data_input
+
+Minimal data input files required to reproduce the analyses in the Jupyter notebooks.
+
+### MSAs
+
+Final MSAs of HOTAIR.
+
+### Reference_sequences
+
+Sequences used for alignment of SHAPE-MaP and MRT-ModSeq sequencing reads.
+
+### Scripts
+
+Analysis scripts:
+- add_gaps_to_structure.py :arrow_right: add gaps to secondary structure as single-stranded positions to correspond to MSA
+- check_exon_scaffolds.sh :arrow_right: verify that hits from exon-aware searches are on the same scaffold
+- unwrap_stockholm.py :arrow_right: convert multiblock stockholm so that each sequence is on one line
+
+
+### Superfold_structures
+
+Final structures of HOTAIR from Superfold for the following samples:
+- *in cellulo* SHAPE-MaP rep 1
+- *in cellulo* SHAPE-MaP rep 2
+- *in cellulo* SHAPE-MaP average
+- *in vitro* SHAPE-MaP rep 1
+- *in vitro* SHAPE-MaP rep 2
+- *in vitro* SHAPE-MaP average
 
 ## Structure
 
