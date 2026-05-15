@@ -108,19 +108,22 @@ Processed R-scape results with covarying base pairs.
 
 ## References
 
-- Primate genomes
+- Primate genomes:
+
   Kuderna LFK, Gao H, Janiak MC, et al. A global catalog of whole-genome diversity from 233 primate species. Science. 2023;380(6648):906-913. doi:10.1126/science.abn7829
 
- - Pipeline development
-   Beeram et al.
-   GitHub: [https://github.com/pylelab/NcRNA_Evolution_in_Primates]
+ - Pipeline development:
+
+   Beeram et al., GitHub: [https://github.com/pylelab/NcRNA_Evolution_in_Primates]
 
  - Structure tools:
+   
    ShapeMapper2 (Busan and Weeks 2018)
    SuperFold (Reuter and Mathews 2010)
    deltaSHAPE (Smola et al. 2015)
 
  - Bioinformatics tools:
+   
    Exonerate (version 2.4.0) with the est2genome model (Slater and Birney 2005)
    MAFFT (version 7.526, --auto flag) (Katoh and Standley 2013)
    Esl-alistat and Esl-reformat in HMMER (version 3.4)
