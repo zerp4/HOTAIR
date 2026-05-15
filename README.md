@@ -129,4 +129,4 @@ Processed R-scape results with covarying base pairs.
    CD-HIT-EST (version 4.8.1) (Li and Godzik 2006; Fu et al. 2012)
    R-scape (version 0.2.1) (Rivas and Eddy)
 
-AI was used to assist with coding and debugging.
+- AI was used to assist with coding and debugging.
