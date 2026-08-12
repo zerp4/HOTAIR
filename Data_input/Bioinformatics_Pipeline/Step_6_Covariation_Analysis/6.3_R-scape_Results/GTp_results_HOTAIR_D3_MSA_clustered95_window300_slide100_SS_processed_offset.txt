@@ -1,0 +1,3 @@
+left_pos	right_pos	left_pos_ungapped	right_pos_ungapped	nucleotide	left_offset	right_offset
+878	887	451	456	G:C	1497	1502
+929	987	498	532	C:G	1544	1578
