@@ -1,0 +1,16 @@
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_1-500	27	438	86.61	 GTp 0 86 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_101-600	27	343	85.34	 GTp 0 54 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_201-700	27	247	85.90	 GTp 0 45 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_301-800	27	190	86.58	 GTp 0 36 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_401-900	27	129	84.39	 GTp 0 12 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_501-1000	27	109	79.36	 GTp 0 9 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_601-1100	27	201	81.35	 GTp 0 25 0 0.00 0.00 
+#target_E-val	MSA	nseq	alen	avgid	method	TP	True	Found	SEN	PPV
+0.05		HOTAIR_full_MSA_clustered95_aligned_D3subalign_SS_1_701-1162	27	260	82.44	 GTp 0 44 0 0.00 0.00 
