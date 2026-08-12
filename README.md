@@ -57,15 +57,11 @@ MSAs generated from searching 190 primate genomes with subsequences of hHOTAIR:
 
 ### 2.1_Scaffold_Checks
 
-Check that the best hits from the three exon-aware searches are on the same scaffold. Remove any that are not.
-
-```
-./check_exon_scaffolds.sh
-```
+Validation that the best hits from the three exon-aware searches are (i) on the same scaffold as one another and (ii) on the same scaffold as two neighboring genes, HOXC11 and HOXC12. Remove any that are not.
 
 ### 2.2_MSAs_of_Exons_on_Same_Scaffold
 
-MSAs generated from exon-aware searches after scaffold validation
+MSAs generated from exon-aware searches after scaffold validation.
 
 ### 2.3_Conservation_Results
 
@@ -78,6 +74,7 @@ MSA generated after combining exons 2-7 to concatenate the full transcript.
 ## Step 4. Divergence Group MSAs
 
 The following alignments are included. Primate alignments were extracted from the final alignment in **Step 3**.
+- euarchontoglires
 - human_mouse
 - primates_9MYA
 - primates_19MYA
@@ -112,7 +109,7 @@ Processed R-scape results with covarying base pairs.
   Kuderna LFK, Gao H, Janiak MC, et al. A global catalog of whole-genome diversity from 233 primate species. Science. 2023;380(6648):906-913. doi:10.1126/science.abn7829
 
  - Pipeline development:\
-   Beeram et al., GitHub: [https://github.com/pylelab/NcRNA_Evolution_in_Primates]
+   Beeram et al. 2026 (PMID: 42239064) and GitHub: [https://github.com/pylelab/NcRNA_Evolution_in_Primates]
 
  - Structure tools:\
    ShapeMapper2 (Busan and Weeks 2018)\
@@ -129,3 +126,5 @@ Processed R-scape results with covarying base pairs.
    R-scape (version 0.2.1) (Rivas and Eddy)
 
 - AI was used to assist with coding and debugging.
+
+- All data is associated with the following study: Perry et al. 2026 (PMID: 42239237)
