@@ -1,7 +1,7 @@
 CLUSTAL W 2.0 multiple sequence alignment
 
 
-hHOUAIR_exons4- guccugcuccgcuucgcaguggaau-ggaacggauuuagaagccugcag-uagggga--g
+hHOTAIR_exons4- guccugcuccgcuucgcaguggaau-ggaacggauuuagaagccugcag-uagggga--g
 CAUYMV01        guccugcuccgcuucgcaguggaau-ggaauggauuuagaagccugcag-uagggga--g
 CAUYOL01        guccugcuccgcuucgcaguggaau-ggaauggauuuagaagccugcag-uagggga--g
 CAUYNG01        guccugcuccgcuucgcaguggaau-ggaauggauuuagaagccugcag-uagggga--g
@@ -194,7 +194,7 @@ CAUYQG01        guccugcgccgccucgcaguggaac-ggaauggguuuagacgccugcag-cggggga-ga
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exons4- uggggaguggagagagggagcccagaguuacagacggcggcgaga---------------
+hHOTAIR_exons4- uggggaguggagagagggagcccagaguuacagacggcggcgaga---------------
 CAUYMV01        uggggaguggagagagggagcccagaguuacagacagcggcgaga--gauacagaagacc
 CAUYOL01        uggggaguggagagagggagcccagaguuacagacagcggcgaga--gauacagaagacc
 CAUYNG01        uggggaguggagagagggagcccagaguuacagacagcggcgaga--gauacagaagacc
@@ -387,7 +387,7 @@ CAUYQG01        gggggaguggggagagggagcccggagucgcagacaguggccgag-agaugcggaagacc
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        gggagauacagag-aaaaagagaggc----------gggggaggggag------------
 CAUYOL01        gggagauacagag-aaaaagagaggc----------gggggaggggag------------
 CAUYNG01        gggagauacagag-aaaaagagaggc----------gggggaggagag------------
@@ -580,7 +580,7 @@ CAUYQG01        gggagacacggag-gggggaaaaaga----------ggcgggggaggg------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ---gaggaggaa----ggagggagggaaggguucccagcuggcgaggagcggagcca--g
 CAUYOL01        ---gaggaggaa----ggagggagggaaggguucccagcuggcgaggagcggagcca--g
 CAUYNG01        ---gaggaggaa----ggagggagggaaggguucccagcuggcgaggagcggagcca--g
@@ -773,7 +773,7 @@ CAUYQG01        -----ggaggac------agggggggagggggccccagcuggaggggagcggagccg--a
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        a----------gagagaaaaagagagaaaaguuucccaaagucuucauuaguugauuucc
 CAUYOL01        a----------gagagaaaaagagagaaaaguuucccaaagucuucauuaguugauuucc
 CAUYNG01        a----------gagagaaaaagagagaaaaguuucccaaagucuucauuaguugauuucc
@@ -966,7 +966,7 @@ CAUYQG01        a----------gacagaaaaggagagaaaacuuucccggagucuucauuaguugauuuca
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exons4- --------------------------------------------ggaagga---------
+hHOTAIR_exons4- --------------------------------------------ggaagga---------
 CAUYMV01        cuguccgccgcuuuccccggccg-----gcucaccaccaaaaaaggaagga---------
 CAUYOL01        cuguccgccgcuuuccccggccg-----gcucacccccaaaaaaggaagga---------
 CAUYNG01        cuguccgccgcuuuccccggccg-----gcucacccccaaaaaaggaagga---------
@@ -1159,7 +1159,7 @@ CAUYQG01        acguucgccgcuuuccccgaccagcagagcucacccccaauaaaggaagga---------
 CAUYQM01        ----------------------------------------------aagga---------
                                                               *             
 
-hHOUAIR_exons4- ggggcgucuuua----uuuuuuuaaggccccaaagagu--cugaug-uuuacaagaccag
+hHOTAIR_exons4- ggggcgucuuua----uuuuuuuaaggccccaaagagu--cugaug-uuuacaagaccag
 CAUYMV01        ggggcgucuuua---uuuuuuuuaaggccccaaagagu--ccgaug-uuuacaagaccag
 CAUYOL01        ggggcgucuuua---uuuuuuuuaaggccccaaagagu--ccgaug-uuuacaagaccag
 CAUYNG01        ggggcgucuuua---uuuuuuuuaaggccccaaagagu--ccgaug-uuuacaagaccag
@@ -1352,7 +1352,7 @@ CAUYQG01        ggggggucuuuuuuuuuuuuuuuaagaccccaaagagu--cuugug-uuuacaagagcag
 CAUYQM01        ggggggucuuuu----uuuuuuuaaggccccaaagagu--cuugug-uuuacaagaccag
                  * *      *       **   *.*. * ** . *.   *  . * ** ******  **
 
-hHOUAIR_exons4- aaaugccacggccgcguccuggcagag-aaaaggcugaaauggaggaccggcgccuuccu
+hHOTAIR_exons4- aaaugccacggccgcguccuggcagag-aaaaggcugaaauggaggaccggcgccuuccu
 CAUYMV01        aaaugccauggccgcguccuggcagag-aaaaggcugaaauggaggaccggcgccuuccu
 CAUYOL01        aaaugccacggccgcguccuggcagag-aaaaggcugaaauggaggaccggcgccuuccu
 CAUYNG01        aaaugccacggccgcguccuggcagag-aaaaggcugaaauggaggaccggcgccuuccu
@@ -1545,7 +1545,7 @@ CAUYQG01        aaaugccacggccgcguccgggcagagagaaaggcugaaauggaggaccggcgccuuccu
 CAUYQM01        aaacgccacggccgcgucccggcagagagaaaggcugaaauggaggaccggcgccuuccu
                 *** * *.   **. ** *  *  .*.  .**************. ** *.* *******
 
-hHOUAIR_exons4- ua----------------------------------------------------------
+hHOTAIR_exons4- ua----------------------------------------------------------
 CAUYMV01        uauaagguacgaugcuaacuugaccuucacuuugucauggcgcccccgcccacccagac-
 CAUYOL01        uauaagguacgaugcuaacuugaccuucacuuugucauggcgcccccgcccacccagac-
 CAUYNG01        uauaagguacgaugcuaacuugaccuucacuuugucauggcgcccccgcccacccagac-
@@ -1738,7 +1738,7 @@ CAUYQG01        uauaagguacgaugcuaacuugaccuucacuuugucauggcgcccccgcccacccagac-
 CAUYQM01        uauaagguacgaugcuaacuugaccuucacuuugucauggcgcccccgcccacccagac-
                 **                                                          
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ---ugcugcaggcggccggac--gagggaaagcaaucgccgacccuugcuucugccucuc
 CAUYOL01        ---ugcugcaggcggccgggc--gagggaaagcaaucgccgacccuugcuucugccuccc
 CAUYNG01        ---ugcugcaggcggccgggc--gagggaaagcaaucgccgacccuugcuucugccuccc
@@ -1931,7 +1931,7 @@ CAUYQG01        ---ugcug-gggcggcagggc--aggggccagccgccucgg--cccugcuucugccuccc
 CAUYQM01        ---ugcug-gggcggcagggc---aggggcagccgccucgg--cccugcuucugccucuc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ucccgccucuuuuuaucuuucaaucuuuuucuc-uc-gucuuucuuauuuucauuucccu
 CAUYOL01        ucccgccucuuuuuaucuuucaaucuuuuucuc-uc-gucuuucuuauuuucauuucccu
 CAUYNG01        ucccgccucuuuuuaucuuucaaucuuuuucuc-uc-gucuuucuuauuuucauuucccu
@@ -2124,7 +2124,7 @@ CAUYQG01        gcc------------ucuuucaagcucggucucgcu-ucuuuucuucuuuucauuucccu
 CAUYQM01        gcc------------ucuuucaagcucggucucgcu-ucuuuucuucuuuccauuucccu
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ccuucugucuuuuucuucg--uc-uuuuuucugucuuuuccuuuucguuuccuuccuuuc
 CAUYOL01        ccuucugucuuuuucuucg--uc-uuuuuucugucuuuuccuuuucguuuccuuccuuuc
 CAUYNG01        ccuucugucuuuuucuucg--uc-uuuuuucugucuuuuccuuuucguuuccuuccuuuc
@@ -2317,7 +2317,7 @@ CAUYQG01        ccuuccgucuuuuucuugg--ucuuuucccccaccuauuccuuuuuauuuccuuccuucc
 CAUYQM01        ccuucagucuuuuucuugc--ucuuuucccccaccuauuccuguuuauuuccuuccuucc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uucuuuu-----ucuccuccuguucuu--ccugcccccuuuc-uuucacucauuucuuuu
 CAUYOL01        uucuuuu-----ucucuuccuguucuu--ccugcccccuuuc-uuucacucauuucuuuu
 CAUYNG01        uucuuuu-----ucuccuccuguucuu--ccugcccccuuuc-uuucacucauuucuuuu
@@ -2510,7 +2510,7 @@ CAUYQG01        uucguuu-----ucuccugacccuuuc----------------uucugcccguucugcuc
 CAUYQM01        uucguuu-----ucuccugccccuuuc----------------uuucgcccguucugcuc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        acccuugccggcugguuucauagcuucccugaguucucucuugccuuguucucaggcacu
 CAUYOL01        acccuugccggcugguuucauagcuucccugaguucucucuugccuuguucucaggcacu
 CAUYNG01        acccuugccggcugguuucauagcuucccugaguucucucuugccuuguucucaggcacu
@@ -2703,7 +2703,7 @@ CAUYQG01        gaucuugccugcuggucucacgguuucccuccuuucuguuuccccuugcucuc-gccacu
 CAUYQM01        gaucuugccugcuggucucacgguuucccucauuucuguuuucccuugcucuc-cucacu
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uccuugau----------cucuuucuc-ucuc-ucccagccuucuggucccuucuggucu
 CAUYOL01        uccuugau----------cucuuucuc-ucuc-ucccagccuucuggucccuucuggucu
 CAUYNG01        uccuugau----------cucuuucuc-ucuc-ucccagccuucuggucccuucuggucu
@@ -2896,7 +2896,7 @@ CAUYQG01        gccuuuauggcg------aucucuacc-ucuc-ccgcagccuucuggucuc---------
 CAUYQM01        gccuuuauggcg------accucuacc-ucuc-ccgcggccuucuggucuc---------
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        caaaucccggaaacaac----aacaacaaaaauauuuucaguccuuccugcaucccuacu
 CAUYOL01        caaaucccggaaacaac----aacaacaaaaauauuuucaguccuuccugcaucccuacu
 CAUYNG01        caaaucccggaaacaac----aacaacaaaaauauuuucaguccuuccugcaucccuacu
@@ -3089,7 +3089,7 @@ CAUYQG01        --aaacccgggagcaagaaaaaaaaaaaaaaucauuuucaauccucccuucaauccagcu
 CAUYQM01        --aauccccggaacgag-----aaaaaaaaagcauuuucaauccucccuucaaucuagcu
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        cug----aacugacuuucacagccccagccugacuuuugc-cccacccagguguuccugg
 CAUYOL01        cug----aacugacuuucacagccccagccugacuuuugc-cccacccagguguuccugg
 CAUYNG01        cug----aacugacuuucacagcuccagccugacuuuugc-cccacccagguguuccugg
@@ -3282,7 +3282,7 @@ CAUYQG01        cug----gacugacgucuacagugcuagccuggcuuuggcccccacccaggugucccugg
 CAUYQM01        cuggacugacugacguccacagcgcuagccuggcuuuggccccca----------ccuag
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ggguaagg-----------gggaaggcca----------auuuaggaucaaaaga-ggcu
 CAUYOL01        ggguaagg-----------gggaaggcca----------auuuaggaucaaaaga-ggcu
 CAUYNG01        ggguaagg-----------gggaaggcca----------auuuaggaucaaaaga-ggcu
@@ -3475,7 +3475,7 @@ CAUYQG01        gggaggag--acuccaagaaagaaggcca----------auuugggaucaaaaggagguu
 CAUYQM01        gggaggcg--acuccaagaaagaaggcca----------auuugggaucaaaaggaggcu
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ucacuuugggaccaaugcccacuuggggaugauaaugaaauugguuuggauaagccucug
 CAUYOL01        ucacuuugggaccagugcccacuuggggaugauaaugaaauugguuuggauaagacucug
 CAUYNG01        ucacuuugggaccagugcccacuuggggaugauaaugaaauugguuuggauaagacucug
@@ -3668,7 +3668,7 @@ CAUYQG01        ucucuuugggccuggugcccacuugaggaugacaaugcacuugguuucgauaagacccag
 CAUYQM01        ucucuuugggccuggugcccacuugaggaugauaauguacuuggcuuugauaagauccug
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ucuuccucacauugg-ccccaccugcaaagucucugugauccu-aguggccuggga-cug
 CAUYOL01        ucuuccucacauugg-ccccaccugcaaagucucugugauccu-aguggccuggga-cug
 CAUYNG01        ucuuccucacauugg-ccccaccugcaaaaucucugugauccu-aguggccuggga-cug
@@ -3861,7 +3861,7 @@ CAUYQG01        ucuuucucucacugg-ccucaccugcaaggucuccgugacccu-cguggccuuggg-uug
 CAUYQM01        ucuuucucucacugg-ccucaccugcaaggucuccgugacccu-cguggccuugga-uug
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        agag---c-------aaagccucaggcugu-uggggcau-ggggaaagcagaucccacag
 CAUYOL01        agag---c-------aaagccucaggcugu-gggggcau-ggggaaagcagaucccacag
 CAUYNG01        agag---c-------aaagccucaggcugu-gggggcau-ggagaaagcagaucccacag
@@ -4054,7 +4054,7 @@ CAUYQG01        agag---c-------aaagccuuagauu---ggggacaa-ggggggaccagagcccacug
 CAUYQM01        agag---c-------aaagccuuagacu---ggggacaa-ggggggaccagagcccacug
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        cuccugaaacuaug--------gggaagggag----cagacuucaaguacccaauuguga
 CAUYOL01        cuccugaaacuaug--------gggaagggag----cagacuucaaguacccaauuguga
 CAUYNG01        cuccugaaacuaug--------gggaagggag----cagacuucaaguacccaauuguga
@@ -4247,7 +4247,7 @@ CAUYQG01        cuccugagacuaug--------ggggggg-------cagaguucaaguauuaaauug---
 CAUYQM01        cuccugagacuaug--------gggggagg------cagaguucagguauuaaauug---
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uucacccuucucugg-cuuucagccucu-aaaaucuuagaguuuucccuuaagacaucug
 CAUYOL01        uucacccuucucugg-cuuucagccucu-aaaaucuuagaguuuucccuuaagacaucug
 CAUYNG01        uucacccuucucugg-cuuucagccccu-aaaaucuuagaguuuucccuuaagacaucug
@@ -4440,7 +4440,7 @@ CAUYQG01        -uuugccuccucugggcuuucagcgccu-aaaauccuagagauuucccuuaagcaaucug
 CAUYQM01        -uuugcuuccucugggcuuucaacgccu-aaaauccuagagauuucccuuaagcaaucug
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        a-ggaggagauguagagaacuagggauuuauagag----auuaacgcauauguaaaaaua
 CAUYOL01        a-ggaggagauguagagaacuagggauuuauagag----auuaacgcauauguaaaaaua
 CAUYNG01        a-ggaggagauguagagaacuagggauuuauagag----auuaacgcauauguaaaaaua
@@ -4633,7 +4633,7 @@ CAUYQG01        ggggagggaauuuagaguauuagagauuucuggaa----auucacucacaugugaaaaca
 CAUYQM01        ggggagggaauuuagagaauuagagauuucuggaa----auucacucacaugugaaaaca
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        agauagggaaagacuaua----agggccucuccaucuugucucucgcugccuccc-aggg
 CAUYOL01        agauagggaaagacuaua----agggccucuccaucuugucucucgcugccuccc-aggg
 CAUYNG01        agauagggaaagacuaua----agggccucuccaucuugucucuugcugccuccc-aggg
@@ -4826,7 +4826,7 @@ CAUYQG01        ggaaagagguggaugacc----agggucucucuaccuugucucuugcugccucccaag--
 CAUYQM01        ggaaagagguggaugauc----agggccucucuaccuugucucuugcugccucccaag--
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uccagcagagc---cuccgacauuaacucuaaucauaucuuguguggcuauaaaauaaua
 CAUYOL01        uccagcagagc---cuccgacauuaacucuaaucauaucuuguguggcuauaaaauaaua
 CAUYNG01        uccagcagagc---cuccgacauuaacucuaaucauaucuuguguggcuauaaaauaaua
@@ -5019,7 +5019,7 @@ CAUYQG01        uccagcagagc---cuccgacauuaacucuacucaugucuuguguggcuauaaaauaaua
 CAUYQM01        uccagcagagc---cuccgacauuaacucuacucaugucuuguguggcuauaaaauaaua
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uuauugacaccccuauaauuaucuauuauccccuuacuuguaaugauuacaauacuacag
 CAUYOL01        uuauugacaccccuauaauuaucuauuauccccuuacuuguaaugauuacaauacuacag
 CAUYNG01        uuauugacaccccuauaauuaucuauuauccccuuacuuguaaugauuacaauacuacag
@@ -5212,7 +5212,7 @@ CAUYQG01        uuaucgacaccccuauaauuaucuauuaaccacuuacuugcaguaauuacaaugcuagag
 CAUYQM01        uuaucgacaccccuauaauuaucuauuaaccacuuacuugcagugauuacaaugcuagag
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        gaggcaugucuaugcugacaaaguaaagccaagcaaauauccuggaaaaugaaaccagau
 CAUYOL01        gaggcaugucuaugcugacaaaguaaagccaagcaaauauccuggaaaaugaaaccagau
 CAUYNG01        gaggcaugucuaugcugacaaaguaaagccaagcaaauauccuggaaaaugaaaccagau
@@ -5405,7 +5405,7 @@ CAUYQG01        gaggugggucuaugcagacaaaguaacgcucagcaaauguccuggaaaaugaaacuggac
 CAUYQM01        gaggugggucuaugcagacaaaguaacgcucagcaaauguccuggaaaaugaaacuggau
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        caggggcauucaaacucgaucucuugugcguucuuaaguauguuccaaaaucuauaag--
 CAUYOL01        caggggcauucaaacucgaucucuugugcguucuuaaguauguuccaaaaucuauaag--
 CAUYNG01        cagggacauucaaacucgaucucuugugcguucuugaguauguuccaaaaucuauaag--
@@ -5598,7 +5598,7 @@ CAUYQG01        uggaggcauucagguuggcucuuuugugcuuucuugaguauguuccagaaucuguaag--
 CAUYQM01        cggaggcauucagguuggcucuuuggugcuuuccugaguauguuccagaaucuauacg--
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        -----cucc-ugccuagggucuccuugauuuaggaguagccauuuuguggggcuuagggu
 CAUYOL01        -----cucc-ugccuagggucuccuugauuuaggaguagccauuuuguggggcuuagggu
 CAUYNG01        -----cucc-ugccuagggucuccuugauuuagaaguagccuuuuuguggggcuuagggu
@@ -5791,7 +5791,7 @@ CAUYQG01        -----cucc-ugccuagggccuccuugcauugggaguagccauuuuguaggguuuagggu
 CAUYQM01        -----cugc-ugccuagggccuccuugcauugggaguagccauuuuguaggguuuagggu
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        gauaucgggagacccuaccaucuccuuuuccuc---------uaca--ccccuggccc--
 CAUYOL01        gauaucgggagacccuaccaucuccuuuuccuc---------uaca--ccccuggccc--
 CAUYNG01        gauaucgggagacccuaccaucuccuuuuccuc---------uaca--ccccuggccc--
@@ -5984,7 +5984,7 @@ CAUYQG01        gauauugggagaccuugccaucuccuuuuccuguauaguccauacaa-ccccccgccc--
 CAUYQM01        gauauugggagacccugccaucuccuuuuccuguauauuccauaca--ccccccaccc--
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        -------------------cuccuccucugcacagacaucagagagggucagacaauaaa
 CAUYOL01        -------------------cuccuccucugcacagacaucagagagggucagacaauaaa
 CAUYNG01        -------------------cuccuccucugcacagacaucagagagggucagacaauaaa
@@ -6177,7 +6177,7 @@ CAUYQG01        -------------------cuccuccuccucuucugcaccagagagggucagacaauaaa
 CAUYQM01        -------------------cuccuccuccucuucugcaccagagagggucaggcaauaaa
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        agagaaaugcuuucucucucaccccc-----uacaauuauccgaauaauugcaugaauuc
 CAUYOL01        agagaaaugcuuucucucucaccccc-----uacaauuauccgaauaauugcaugaauuc
 CAUYNG01        agagaaaugcuuucucucucaccccc-----uacaauuauccgaauaauugcaugaauuc
@@ -6370,7 +6370,7 @@ CAUYQG01        agagaaaugcuuucucucucuccccc-----uacaauuauccgaauaauugcaugaauuc
 CAUYQM01        agagaaaugcuuucucucucuccccc-----uacaauuauccgaauaauugcaugaauuc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        uuccuggaauaccacugcguagucagggucagaauuucagcaggaagugcaggggacaga
 CAUYOL01        uuccuggaauaccacugcguagucagggucagaauuucagcaggaagugcaggggacaga
 CAUYNG01        uuccuggaauaccacugcguagucagggucagaauuucagcaggaagugcaggggacaga
@@ -6563,7 +6563,7 @@ CAUYQG01        uuccuggaauaccacuguguagucagggucaggauuucagcaggaaguacaagggacagg
 CAUYQM01        uuccuggaauaccacuguguagucagggucaggauuucagcaggaaguacaagggacagg
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        auu-caaaugggggaagcugagagaguccugcguucuuacauucccagacuuuauaguuc
 CAUYOL01        auu-caaaugggggaagcugagagaguccugcguucuuacauucccagacuuuauaguuc
 CAUYNG01        auu-caaaugggggaagcugagagaguccugcguucuuacauucccagacuuuauaguuc
@@ -6756,7 +6756,7 @@ CAUYQG01        auuccaaaugggggaaguggagagaguccuguguccuuacauucccagacuuuauaguuc
 CAUYQM01        auuccaaaugggggaagugaagagaguccugcguccuuacauucccagacuuuauaguuc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ugucuaguguuacauuguuucuucaggcaaagaucuuuguucg-ccuucagucauauuuc
 CAUYOL01        ugucuaguguuacauuguuucuucaggcaaagaucuuuguucg-ccuucagucauauuuc
 CAUYNG01        ugucuaguguuacauuguuucuucaggcaaagaucuuuguucg-ccuucagucauauuuc
@@ -6949,7 +6949,7 @@ CAUYQG01        ugucuaguguuacauuguuucuucaggcaaagaucuuuguucg-ccuucauucauauuuc
 CAUYQM01        ugucuaguguuacauuguuucuucaggcaaagaucuuuguucg-ccuucauucauauuuc
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        ucccuu-cccccucccuuucuuucucuuucc-cuuccccccuuuuugagucccuuuaaag
 CAUYOL01        ucccuu-cccccucccuuucuuucucuuucc-cuuccccccuuuuugagucccuuuaaag
 CAUYNG01        ucccuu-cccccucccuuucuuucucuuucc-cuuccccccuuuuugagucccuuuaaag
@@ -7142,7 +7142,7 @@ CAUYQG01        ucccu--cccccgccuuuucuuucucu-------cccccccuuuuuuggucccuuuaaag
 CAUYQM01        ucccu--cccccgccuuuucuuucucuccccacaccccgccuuuuuuggucccuuuaaag
                                                                             
 
-hHOUAIR_exons4- ------------------------------------------------------------
+hHOTAIR_exons4- ------------------------------------------------------------
 CAUYMV01        gagacucagaucaucuucugcucuuaauggaugacuau-aaaaguaaaauua--------
 CAUYOL01        gagacucagaucaucuucugcucuuaauggaugacuau-aaaaguaaaauua--------
 CAUYNG01        gagacucagaucaucuucugcucuuaauggaugacuau-aaaaguaaaauua--------
@@ -7335,7 +7335,7 @@ CAUYQG01        gaggcucagaucaucuucugcucuuaauagaugacuau-aaaaguaaaauua--------
 CAUYQM01        gaggcucagaucaucuucugcucuuaauagaugacuau-aaaaguaaaauua--------
                                                                             
 
-hHOUAIR_exons4- -------------------------------------uaaguaugcacauuggcgag---
+hHOTAIR_exons4- -------------------------------------uaaguaugcacauuggcgag---
 CAUYMV01        -auuccccccugcccuuuaauaucaauaucucuccguuaaguaugcacauuggugag---
 CAUYOL01        -auuccccccugcccuuuaauaucaauaucucuccguuaaguaugcacauuggugag---
 CAUYNG01        -auuccccccugcccuuuaauaucaauaucucuccguuaaguaugcacauuggugag---
@@ -7528,7 +7528,7 @@ CAUYQG01        -auuccccccugcccuuuaauaucaauaucucuccguuaaguaugcacaucggcaag---
 CAUYQM01        -auuccccccugcccuuuaauaucaauaucucuccguuaaguaugcacaucggcaag---
                                                      *********  .* .. .**   
 
-hHOUAIR_exons4- ---------agaauuaagugcugcaaccuaaaccagcaauuacacc
+hHOTAIR_exons4- ---------agaauuaagugcugcaaccuaaaccagcaauuacacc
 CAUYMV01        --aauaaacagaauuaagugcugcaacccaaaccagcaauuacacc
 CAUYOL01        --aauaaacagaauuaagugcugcaacccaaaccagcaauuacacc
 CAUYNG01        --aauaaacagaauuaagugcugcaacccaaaccagcaauuacacc

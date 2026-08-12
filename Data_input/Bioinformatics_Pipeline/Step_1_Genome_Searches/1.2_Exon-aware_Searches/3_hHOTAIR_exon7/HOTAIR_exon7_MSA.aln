@@ -1,7 +1,7 @@
 CLUSTAL W 2.0 multiple sequence alignment
 
 
-hHOUAIR_exon7   caagcucguuggggccuaagccaguaccgaccugguagaaaaagcaaccacgaagcu--a
+hHOTAIR_exon7   caagcucguuggggccuaagccaguaccgaccugguagaaaaagcaaccacgaagcu--a
 CAUYTB01        caagcucguuggggccugagccaguaccgaccugguaaaaaaagcaaccacgaagcu--a
 CAUYNF01        caagcucgcuggggccugagccagcaccgaccugguagaaaaagcaaccacgaaacu--a
 CAUYSP01        caagcucguuggggccugagccagcaccgaccugguagaaaaagcaaccacgaaacu--a
@@ -194,7 +194,7 @@ CAUYQG01        caagcuuguuggggccugagccagcaccgaccugguagaaaaggcagccgugaagcc---
 CAUYQM01        ------------------agccagcaccgaccugguagaaaaagcagccgugaag-----
                                                                             
 
-hHOUAIR_exon7   gagagagagccagaggagggaagagagcgccagacgaaggu--------gaaagcgaacc
+hHOTAIR_exon7   gagagagagccagaggagggaagagagcgccagacgaaggu--------gaaagcgaacc
 CAUYTB01        gagagagagccagaggagggaagagagcgccagacgaaggu--------gaaagcgaacc
 CAUYNF01        gaaagagagccagaggagggaagagagcgccagacgaaggu--------gaaagcgaacc
 CAUYSP01        gaaagagagccagaggagggaagagagcgccagacgaaggu--------gaaagcgaacc
@@ -387,7 +387,7 @@ CAUYQG01        -----------agaggaggggagagagcaccagacggagau--------gaaugugaacc
 CAUYQM01        -----------------------------ccagacggagau--------gaaugugaacc
                                                                             
 
-hHOUAIR_exon7   acgc----agagaaau-----gcaggcaagggagcaaggcggcaguuc---ccggaacaa
+hHOTAIR_exon7   acgc----agagaaau-----gcaggcaagggagcaaggcggcaguuc---ccggaacaa
 CAUYTB01        acgc----agagaaau-----gcaggcaagggagcaaggcggcaguuc---ccggaacaa
 CAUYNF01        acgc----agagaaau-----gcaggcaagggagcaaggcggcaguuc---ccggaacaa
 CAUYSP01        acgc----agagaaau-----gcaggcaagggagcaaggcggcaguuc---ccggaacaa
@@ -580,7 +580,7 @@ CAUYQG01        augc----agagaaau-----gcagagccaggagcaaggcagca----caccccgaacaa
 CAUYQM01        augc----agagaaau-----gcagacccaguagcaaagcagca----caccccgaacaa
                                                                             
 
-hHOUAIR_exon7   acguggcagagggcaagacgggcacucacagacagagguuuaug---ua--uuuuua---
+hHOTAIR_exon7   acguggcagagggcaagacgggcacucacagacagagguuuaug---ua--uuuuua---
 CAUYTB01        acguggcagagggcaagacgggcacucacagacagagguguaug---ua--uuuuua---
 CAUYNF01        acguggcagagggcaagacaggcacucacagacagagguuuaug---ua--uuuuua---
 CAUYSP01        acguggcagagggcaagacaggcacucacagacagagguuuaug---ua--uuuuua---
@@ -773,7 +773,7 @@ CAUYQG01        auguggcagagggcgagacaggcacucaccaacagagguuuaug---ug--uuuuua---
 CAUYQM01        auguggcagagggcgagacaggcacucaccaacagagguuuaug---ug--uuuuua---
                                                                             
 
-hHOUAIR_exon7   -uuuu-uuaaaaucugauuugguguuccaugaggaaaagggaaaaucuagggaacggg--
+hHOTAIR_exon7   -uuuu-uuaaaaucugauuugguguuccaugaggaaaagggaaaaucuagggaacggg--
 CAUYTB01        -uguu-uuuaaaucugauuugguguuccaugaggaaaagggaaaaucuagggaacggg--
 CAUYNF01        uuuuu-uuuaaaucugauuugguguuccaugaggaaaagggaaaaucuggggaacggg--
 CAUYSP01        uuuuu-uuuaaaucugauuugguguuccaugaggaaaagggaaaaucuggggaacggg--
@@ -966,7 +966,7 @@ CAUYQG01        uuugu---aaaaucugaugugguuuccaacaggaaaa--ggaaaauucagggaagggg--
 CAUYQM01        uuugu---aaaaucugaugugguuuccaacaggaaaa--ggaaaauucagggaagggg--
                                                                             
 
-hHOUAIR_exon7   ---aguacagagagaauaauccggguccuagcucgccacaugaacgccc------agaga
+hHOTAIR_exon7   ---aguacagagagaauaauccggguccuagcucgccacaugaacgccc------agaga
 CAUYTB01        ---aguacagagagaauaauccggguccuagcucgccacaugaacgccc------agaga
 CAUYNF01        ---aguacagagagaauaauccgggu-cuagaucgcgacaugaacgcccagcaggagaga
 CAUYSP01        ---aguacagagagaauaauccgggu-cuagaucgcgacaugaacgcccagcaggagaga
@@ -1159,7 +1159,7 @@ CAUYQG01        ---aggagagagagaaucauccagguccucgcucacagcaugaaua-ccagaaggaaaaa
 CAUYQM01        ---aggagagagagaaucauccagguccuugcucacggcaugaaca-ccagaaggagaaa
                                                                             
 
-hHOUAIR_exon7   acgcuggaaaaaccugagc-gggugccg-gggca------gcacccggcucg------gg
+hHOTAIR_exon7   acgcuggaaaaaccugagc-gggugccg-gggca------gcacccggcucg------gg
 CAUYTB01        acgcuggaaaaaccugagc-gggugccg-gggca------gcacccggcucc------gg
 CAUYNF01        acucuggaaaaaccugagccgggugcu--------------------gcccc------gg
 CAUYSP01        acucuggaaaaaccuuagcugggugcu--------------------gcccc------gg
@@ -1352,7 +1352,7 @@ CAUYQG01        ucacagaauaaaccugagc-ccgcacca-gggca------acacccggccgg---ccggg
 CAUYQM01        ucgcagaauaaaccugagc-ccgcacca-gggca------gcacccgg-------acggg
                                                                             
 
-hHOUAIR_exon7   ucagccacugccccacac----------cgggcccaccaag----c-cccg----ccccu
+hHOTAIR_exon7   ucagccacugccccacac----------cgggcccaccaag----c-cccg----ccccu
 CAUYTB01        ucagccacugccccacac----------cgggcccaccaag----c-cccg----ccccu
 CAUYNF01        ccagccacuggcccacac----------cgggcccaccaagcccac-cccc----ucccc
 CAUYSP01        ccagccacuggcccacac----------cgggcccaccaagcccac-cccc----ucccc
@@ -1545,7 +1545,7 @@ CAUYQG01        ucagccgcugccccacaugccacggggcuagauccuugaag----c-cccc----ccucg
 CAUYQM01        ucugccgcugccccacaugccacggggcuagauccuugaag----c-cccc----ccucg
                                                                             
 
-hHOUAIR_exon7   cgcggccaccggggcuuccuugcucuuc-uuaucaucuccaucuuuaugaugaggcuugu
+hHOTAIR_exon7   cgcggccaccggggcuuccuugcucuuc-uuaucaucuccaucuuuaugaugaggcuugu
 CAUYTB01        cgcggccacccgggcuuccuugcucuuc-uuaucaucuccaucuuuaugaugaggcuugu
 CAUYNF01        cgcggccacccgggcuuccuugcucuuc-uuaucaucuccaucuuuaugacgaggcuugu
 CAUYSP01        cgcggccacccgggcuuccuugcucuuc-uuaucaucuccaucuuuaugacgaggcuugu
@@ -1738,7 +1738,7 @@ CAUYQG01        c--ggccaccccaguuuccuagcucucc-uuaucaucuccaucuuuaugacgaggcuugu
 CAUYQM01        c--ggccgccccagcuuccuagcucucc-uuaucaucuccaucuuuaugaggaggcuugu
                                                                             
 
-hHOUAIR_exon7   uaacaagaccagagagcuggccaagcaccucuaucucagccgcgcccgcucagccgagca
+hHOTAIR_exon7   uaacaagaccagagagcuggccaagcaccucuaucucagccgcgcccgcucagccgagca
 CAUYTB01        uaacaagaccagagagcuggccaagcaccucuaucucagccgcgcccgcucagccgagca
 CAUYNF01        uaacaagaccagagagcuggccacgcacaucuaucucagccgcccccgcucagccgagca
 CAUYSP01        uaacaagaccagagagcuggccacgcacaucuaucucagccgcccccgcucagccgagca
@@ -1931,7 +1931,7 @@ CAUYQG01        uaacaagaccaucgagcuggccacgcacaucuaucucagccgcgugcgcucagccgagca
 CAUYQM01        uaacaagaccaucgagcuggccacgcacaucuaucucagccgcguaugcucagccgagca
                                                                             
 
-hHOUAIR_exon7   g-----cg-----gucggu-ggggg-gacugggaggcgcuaauuaauugauuccuuugga
+hHOTAIR_exon7   g-----cg-----gucggu-ggggg-gacugggaggcgcuaauuaauugauuccuuugga
 CAUYTB01        g-----cg-----gucggu-ggagg-gacugggaggcgcuaauuaauugauuccuuugga
 CAUYNF01        ggggccgg-----gccggc-ggggg-gacugggaggcacuaauuaauugauuccuuugga
 CAUYSP01        ggggccgg-----gccggc-ggggg-gacugggaggcacuaauuaauugauuccuuugga
@@ -2124,7 +2124,7 @@ CAUYQG01        g-----cg-----gccggc-ggggg-gacugggaggcgcuaauuaauugauuccuuugga
 CAUYQM01        g-----cg-----gccggu-ggggg-gacugggaggcgcuaauuaauugauuccuuugga
                                                                             
 
-hHOUAIR_exon7   cuguaaaauauggcggcgucuacacggaacccau-ggacucauaaacaauauaucuguug
+hHOTAIR_exon7   cuguaaaauauggcggcgucuacacggaacccau-ggacucauaaacaauauaucuguug
 CAUYTB01        cuguaaaauauggcggcgucuacacggaacccac-ggacucauaaacaauauaucuguug
 CAUYNF01        cuguaaaauauggcggcgucuacacggaacccac-ggacucauaaacaauaucucuguug
 CAUYSP01        cuguaaaauauggcggcgucuacacggaacccac-ggacucauaaacaauaucucuguug
@@ -2317,7 +2317,7 @@ CAUYQG01        cuguaaaauauggccgcaucuacacggaacccac-agacucauaaacaauaucucugcug
 CAUYQM01        cuguaaaauauggccgcaucuacacggaacccac-ggacucauaaacaauaucucugcug
                                                                             
 
-hHOUAIR_exon7   ggcgugagugcacugucucucaaauaauuuuuccauaggcaaaugucagaggguucugga
+hHOTAIR_exon7   ggcgugagugcacugucucucaaauaauuuuuccauaggcaaaugucagaggguucugga
 CAUYTB01        ggcgugagugcacugucucucaaauaauuuuuccauaggcauaugucagaggguucugga
 CAUYNF01        ggcgugagugcacugucucucaaauaauuuuuccauaggcauaugucagaggguucugga
 CAUYSP01        ggcgugagugcacugucucucaaauaauuuuuccauaggcauaugucagaggguucugga
@@ -2510,7 +2510,7 @@ CAUYQG01        gguguaagugcacuaucucuuaaggaauuuuuccauaggcaugugucaga-------ggg
 CAUYQM01        gguguaagugcacuaucucucaaggaauuuuuccauaggcauguaucaga-------ggg
                                                                             
 
-hHOUAIR_exon7   uuuuuaguugcuaaggaaagauccaaaugggaccaau-uuuaggaggcccaaaca---ga
+hHOTAIR_exon7   uuuuuaguugcuaaggaaagauccaaaugggaccaau-uuuaggaggcccaaaca---ga
 CAUYTB01        uuuuuaguugcuaaggaaagauccaaaugggaccaau-uuuaggaggcccaaaca---ga
 CAUYNF01        uuuuuaguugcuaaggaaagacccaaaugggacuaau-uuuaggaggcccaga-------
 CAUYSP01        uuuuuaguugcuaaggaaagacccaaaugggacuaau-uuuaggaggcccaga-------
@@ -2703,7 +2703,7 @@ CAUYQG01        uuuuuaguuguuaaggaaaaacucaagugggacacauguuuagggg-----------cga
 CAUYQM01        uuuuuaguuguuaaggaaaaacucaagugggacacauguuuagggg-----------caa
                                                                             
 
-hHOUAIR_exon7   g-uccguucagugucagaaaaugcuuccccaaagg-guuggcaguguguuuuguugg---
+hHOTAIR_exon7   g-uccguucagugucagaaaaugcuuccccaaagg-guuggcaguguguuuuguugg---
 CAUYTB01        g-uccguucagugucagaaaaugcuuccccaaagggguugggaguguguuuuguugg---
 CAUYNF01        -----guucagugucagaaaaugcuuccccaaagggguugggaguguguuuuguugg---
 CAUYSP01        -----guucagugucagaaaaugcuuccccaaagggguugggaguguguuuuguugg---
@@ -2896,7 +2896,7 @@ CAUYQG01        g-ucagcucagugccagaaaacaucucuccgaaaguggugggagugaguuuuguggg---
 CAUYQM01        g-ucagcucagcgccagaaaacaucucucugaaaguggugggagugaguuuuguggg---
                                                                             
 
-hHOUAIR_exon7   ----aaaaa----------------------------------------agcuuggguua
+hHOTAIR_exon7   ----aaaaa----------------------------------------agcuuggguua
 CAUYTB01        ----aaaaa----------------------------------------a-cuuggguua
 CAUYNF01        ----aaaaa----------------------------------------agcuuggguua
 CAUYSP01        ----aaaaa----------------------------------------agcuuggguua
@@ -3089,7 +3089,7 @@ CAUYQG01        ----aaaaa----------------------------------------agcuuggguua
 CAUYQM01        ----aaaaa----------------------------------------agcuuggguua
                                                                             
 
-hHOUAIR_exon7   uaggaaagccuuucccugcuacuuguguagacccagcccaauuuaagaauuacaaggaag
+hHOTAIR_exon7   uaggaaagccuuucccugcuacuuguguagacccagcccaauuuaagaauuacaaggaag
 CAUYTB01        uaggaaagccuuucccugcuacuuguguagacccagcccaauuuaagaauuacaaggaag
 CAUYNF01        uaggaaagccuuucccugcuacuuguguagacccagcccaauuuaagaauuacaaggaag
 CAUYSP01        uaggaaagccuuucccugcuacuuguguagacccagcccaauuuaagaauuacaaggaag
@@ -3282,7 +3282,7 @@ CAUYQG01        ugggcuagccuuucc-ugcugcuuguguagaccugauccaguuuaaggaucacaagaaa-
 CAUYQM01        ugggcuagccuuccc-ugcugcuuguguagaccugauccaguuuaaggaucacaagaaa-
                                                                             
 
-hHOUAIR_exon7   cgaagggguu----guguaggccggaagccucucugucccg-------gcuggaugcagg
+hHOTAIR_exon7   cgaagggguu----guguaggccggaagccucucugucccg-------gcuggaugcagg
 CAUYTB01        cgaagggguu----guguaggccggaagccucucuguccgg-------gcuggaugcagg
 CAUYNF01        cgaagggguu----guguaggccggaagccucucuguccug-------gcuggaugcagg
 CAUYSP01        cgaagggguu----guguaggccggaagccucucuguccug-------gcuggaugcagg
@@ -3475,7 +3475,7 @@ CAUYQG01        ccaagaggcu----ggguaggccacaagccucucugcccua-------gcuggaugccag
 CAUYQM01        cugagaggcu----ggguaggccacaagccucucugcccua-------gcuggaugccgg
                                                                             
 
-hHOUAIR_exon7   ggacuugagcugcucc----ggaauuugagaggaacauagaagcaaagguccagccuuug
+hHOTAIR_exon7   ggacuugagcugcucc----ggaauuugagaggaacauagaagcaaagguccagccuuug
 CAUYTB01        ggacuugagcugcucc----ggaauuugagaggaacauagaagcaaagguccagccuuug
 CAUYNF01        ggacuugagcugcucc----gggauuugagaggaacauagaagcagagguccagccuuug
 CAUYSP01        ggacuugagcugcucc----gggauuugagaggaacauagaagcagagguccagccuuug
@@ -3668,7 +3668,7 @@ CAUYQG01        ggagu--------------------------gagacauggaagcugggaucuagccuuug
 CAUYQM01        ggagu--------------------------gagacuuggaagcugggaucuaaccuuug
                                                                             
 
-hHOUAIR_exon7   cuucgugcugauuccuagacuuaagauucaaaaacaaauuuuu-aaaagugaaaccagcc
+hHOTAIR_exon7   cuucgugcugauuccuagacuuaagauucaaaaacaaauuuuu-aaaagugaaaccagcc
 CAUYTB01        cuucaugcugauuccuagacuuaagauucaaaaacaaauuuuu-aaaagugaaaccagcc
 CAUYNF01        cuucaugcugauuccuagacuuaagauucaaaaacaaauuuuu-aaaagugaaaccagcc
 CAUYSP01        cuucaugcugauuccuagacuuaagauucaaaaacaaauuuuu-aaaagugaaaccagcc
@@ -3861,7 +3861,7 @@ CAUYQG01        cuucaugcugcuuccuagacucaagauucaaaacuaaaaugaa-aaaaaugaaac-----
 CAUYQM01        cuucgugcugcuuccuagacucaagauucaaaacuaaaaugaa-aaaaaugaaac-----
                                                                             
 
-hHOUAIR_exon7   c-----------------------------------------------------------
+hHOTAIR_exon7   c-----------------------------------------------------------
 CAUYTB01        c-----------------------------------------------------------
 CAUYNF01        c-----------------------------------------------------------
 CAUYSP01        c-----------------------------------------------------------
@@ -4054,7 +4054,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exon7   ------------------------------------------------------------
+hHOTAIR_exon7   ------------------------------------------------------------
 CAUYTB01        ------------------------------------------------------------
 CAUYNF01        ------------------------------------------------------------
 CAUYSP01        ------------------------------------------------------------
@@ -4247,7 +4247,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exon7   ------------------------------------------------------------
+hHOTAIR_exon7   ------------------------------------------------------------
 CAUYTB01        ------------------------------------------------------------
 CAUYNF01        ------------------------------------------------------------
 CAUYSP01        ------------------------------------------------------------
@@ -4440,7 +4440,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exon7   ------------------------------------------------------------
+hHOTAIR_exon7   ------------------------------------------------------------
 CAUYTB01        ------------------------------------------------------------
 CAUYNF01        ------------------------------------------------------------
 CAUYSP01        ------------------------------------------------------------
@@ -4633,7 +4633,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exon7   ------------------------------------------------------------
+hHOTAIR_exon7   ------------------------------------------------------------
 CAUYTB01        ------------------------------------------------------------
 CAUYNF01        ------------------------------------------------------------
 CAUYSP01        ------------------------------------------------------------
@@ -4826,7 +4826,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        --------------------------------------aaaccc----------------
                                                                             
 
-hHOUAIR_exon7   ------------------------------------------------------------
+hHOTAIR_exon7   ------------------------------------------------------------
 CAUYTB01        ------------------------------------------------------------
 CAUYNF01        ------------------------------------------------------------
 CAUYSP01        ------------------------------------------------------------
@@ -5019,7 +5019,7 @@ CAUYQG01        ------------------------------------------------------------
 CAUYQM01        ------------------------------------------------------------
                                                                             
 
-hHOUAIR_exon7   ---------uagccuuuggaagcucuugaagguucagcacccacccagg--aauccacc-
+hHOTAIR_exon7   ---------uagccuuuggaagcucuugaagguucagcacccacccagg--aauccacc-
 CAUYTB01        ---------uagccuuuggaagcucuugaagguucagcacccacccagg--aauccacc-
 CAUYNF01        ---------uagccuuuggaagcucuugaaggcucagcacccacccagg--aauccacc-
 CAUYSP01        ---------uagccuuuggaagcucuugaaggcucagcacccacccagg--aauccacc-
@@ -5212,7 +5212,7 @@ CAUYQG01        ---------aaaccuucaggagcccuugggggcccagcacacaccuagg--aguccacc-
 CAUYQM01        ---------uaaccuucaggaucccucgggggcccagcacacaccuagg--aauccacc-
                                                                             
 
-hHOUAIR_exon7   ---------------------ugccuguuacacgccucuccaagacacaguggcaccgc-
+hHOTAIR_exon7   ---------------------ugccuguuacacgccucuccaagacacaguggcaccgc-
 CAUYTB01        ---------------------ugccuguuacacgccucuccaagacacaguggcaccgc-
 CAUYNF01        ---------------------ugccuguuacacgccucuccaagccacaguggcaccgc-
 CAUYSP01        ---------------------ugccuguuacacgccucuccaagccacaguggcaccgc-
@@ -5405,7 +5405,7 @@ CAUYQG01        ---------------------ugccugccacacagcucaccggaguacuguggcaccuc-
 CAUYQM01        ---------------------ugccugccacacagcucacccgagcacuguggcaccuc-
                                                                             
 
-hHOUAIR_exon7   uuuucuaacuggcagcacagagcaacucuauaauaugcuuauauuaggucuagaagaaug
+hHOTAIR_exon7   uuuucuaacuggcagcacagagcaacucuauaauaugcuuauauuaggucuagaagaaug
 CAUYTB01        uuuucuaacuggcagcacagagcaacucuauaauacgcuuauauuaggucuagaagaaug
 CAUYNF01        uuuucuaacuggcagcacagagcaacucuauaauaugcuuauauuagaucuagaagaaug
 CAUYSP01        uuuucuaacuggcagcacagagcaacucuauaauaugcuuauauuagaucuagaagaaug
@@ -5598,7 +5598,7 @@ CAUYQG01        ucuccuaaccggcagcacagaguaacucuauaauauacuuagauuuggucuagaagaaca
 CAUYQM01        ucuccuaaccggcagcacagaguaacucuauaauauacuuagauuuggucuagaagaaca
                                                                             
 
-hHOUAIR_exon7   caucuugagacacau--ggguaaccuaa-uuauauaaugcuuguuccauaca--ggagug
+hHOTAIR_exon7   caucuugagacacau--ggguaaccuaa-uuauauaaugcuuguuccauaca--ggagug
 CAUYTB01        caucuugggacacau--ggguaaccuaa-uuauauaaugcuuguuccauaca--ggagug
 CAUYNF01        caucuugagacacau--ggguaaccuaa-uuauauaaugcuuauuccauaca--ggagug
 CAUYSP01        caucuugagacacau--ggguaaccuaa-uuauauaaugcuuauuccauaca--ggagug
@@ -5791,7 +5791,7 @@ CAUYQG01        caucuugagacacau-gggguaaccuaaguuauauauggcuuauuccauaca--agcgug
 CAUYQM01        caucuugagacacau-uggguaaccuaaguuauauguagcuuauuccauaca--agcgug
                                                                             
 
-hHOUAIR_exon7   auuaugcagug-ggacccugcugcaaacgggacuuugcacucuaaauauagg------cc
+hHOTAIR_exon7   auuaugcagug-ggacccugcugcaaacgggacuuugcacucuaaauauagg------cc
 CAUYTB01        auuaugcagug-ggacccugcugcaaacgggacuuugcacucuaaauauaga------cc
 CAUYNF01        auuaugcagug-ggacccugcugcaaacgggacuuugcacucuaaauauaga------cc
 CAUYSP01        auuaugcagug-ggacccugcugcaaacgggacuuugcacucuaaauauaga------cc
@@ -5984,7 +5984,7 @@ CAUYQG01        auuguacagugaggacccugccccaagcaggacuuugcacucuaaauauaga-------c
 CAUYQM01        auuguacagugaggacccugccccaagcaggacuuugugcucuaaauauaga-------c
                                                                             
 
-hHOUAIR_exon7   ccagcuugggacaaaaguugcaguagaaaaau-agacauaggagaacacuuaaauaagug
+hHOTAIR_exon7   ccagcuugggacaaaaguugcaguagaaaaau-agacauaggagaacacuuaaauaagug
 CAUYTB01        ccagcuugggacaaaaguugcaguagaaaaau-acacauaggagaacacuuaaauaagug
 CAUYNF01        ccagcuugggacaaaaguugcaguagaaacau-agacauaggagaacacuuaaauaagug
 CAUYSP01        ccagcuugggacaaaaguugcaguagaaacau-agacauaggagaacacuuaaauaagug
@@ -6177,7 +6177,7 @@ CAUYQG01        cgaacuugaagcaagaguugcaacaggaaaac-agcgauaggugaaugcuuauauaaaua
 CAUYQM01        cagacuugaaacaagaguugcaacaggaaaac-agugauaggcgaacgcuuauauaaaua
                                                                             
 
-hHOUAIR_exon7   augcauguagacac--------agaagggguauuuaaaagacagaaauaauagaaguaca
+hHOTAIR_exon7   augcauguagacac--------agaagggguauuuaaaagacagaaauaauagaaguaca
 CAUYTB01        augcauguagacac--------agaagggguauuuaaaagacagaaauaauagaaguaca
 CAUYNF01        augcauguagacau--------agaagggguauuuaaaag--agaaauaauagaaguaca
 CAUYSP01        augcauguagacau--------agaagggguauuuaaaag--agaaauaauagaaguaca
@@ -6370,7 +6370,7 @@ CAUYQG01        auacacguggcuau--------agaaggaggguuuaaaagacagaaauaauagaaauaca
 CAUYQM01        auacacguggcuaua-------agaagaagggcuuaaaagacagaaauaauagaaauaca
                                                                             
 
-hHOUAIR_exon7   gaagaacag------aaaaaaaa-ucagcagauggagauuaccauucccaaugc-----c
+hHOTAIR_exon7   gaagaacag------aaaaaaaa-ucagcagauggagauuaccauucccaaugc-----c
 CAUYTB01        gaagaacag------aaaaaaaacucagcagauggagauuaccauucccaaugc-----c
 CAUYNF01        gaagaacag------aaaaaagacucagcagauggagauuaccauucccaaugc-----c
 CAUYSP01        gaagaacag------aaaaaagacucagcagauggagauuaccauucccaaugc-----c
@@ -6563,7 +6563,7 @@ CAUYQG01        gaa--------uggaaaaaaagacucagcaaacggacauggucauugcugaugc-----c
 CAUYQM01        gaa--------uggaaaaaaaggcucagcaaacagacauggucauugccgaugc-----c
                                                                             
 
-hHOUAIR_exon7   ugaacuucc--uccugcuau------uaagauugcuagagaauugugucuua--a---ac
+hHOTAIR_exon7   ugaacuucc--uccugcuau------uaagauugcuagagaauugugucuua--a---ac
 CAUYTB01        ugaacuucc--uccugcuau------uaagauugcuagagaauugugucuua--a---ac
 CAUYNF01        ugaacuucc--uccugcuau------uaagauugcuagagaauugugucuua--a---ac
 CAUYSP01        ugaacuucc--uccugcuau------uaagauugcuagagaauugugucuua--a---ac
@@ -6756,7 +6756,7 @@ CAUYQG01        cgaacuucc--uccugcguugguuuuuaaggucuccagagaaaugugugugau-aaauac
 CAUYQM01        cgaacuucc--ucuuacgaugguuuuuaagguuuccggagaaaugugugugau-aaauac
                                                                             
 
-hHOUAIR_exon7   aguucaugaacccagaag----aacgcaau-----------------------uucaaug
+hHOTAIR_exon7   aguucaugaacccagaag----aacgcaau-----------------------uucaaug
 CAUYTB01        aguucaugaacccagaag----aaugcaau-----------------------uucaaug
 CAUYNF01        aguucaugaacccagaag----aaugcaau-----------------------uucaaug
 CAUYSP01        aguucaugaacccagaag----aaugcaau-----------------------uucaaug
@@ -6949,7 +6949,7 @@ CAUYQG01        aauaugcaaacucaaau-----aauguacu-----------------------uuccaug
 CAUYQM01        aauaugcaaacucaaag-----aauguacu-----------------------uuccaua
                                                                             
 
-hHOUAIR_exon7   uauuuaguaca------cacac-------a--guaug-uauauaaacacaacucacagaa
+hHOTAIR_exon7   uauuuaguaca------cacac-------a--guaug-uauauaaacacaacucacagaa
 CAUYTB01        uauuuaguaca------cacac-------a--guaug-uauauaaacacaacucacagaa
 CAUYNF01        uauuuaguaca------cacac-------a--guaug-uauauaaacacaacucacagaa
 CAUYSP01        uauuuaguaca------cacac-------a--guaug-uauauaaacacaacucacagaa
@@ -7142,7 +7142,7 @@ CAUYQG01        uauuugguaca------cacac-------a--ucaug-uacgugaaaauaauuuacagaa
 CAUYQM01        uauuugguaaa------cacac-------a--ucgua-uaugugaaaauaauuuacagaa
                                                                             
 
-hHOUAIR_exon7   uaua--uuuuccauac-auuggguagguaugcacuuuguguauauauaauaaugu-----
+hHOTAIR_exon7   uaua--uuuuccauac-auuggguagguaugcacuuuguguauauauaauaaugu-----
 CAUYTB01        uaua--uuuuccauac-auuggguagguaugcacuuuguguauauauaauaaugu-----
 CAUYNF01        uaua--uuuuccauac-auuggguagguaugcacuuuguguauauauaauaaugu-----
 CAUYSP01        uaua--uuuuccauac-auuggguagguaugcacuuuguguauauauaauaaugu-----
@@ -7335,7 +7335,7 @@ CAUYQG01        uaug--auuuccacacaacuggguagauaugcacuuugugaauguauaauacuag-gaag
 CAUYQM01        uaug--auuuccacac-acuagguagauacgcacuuuguguauguauaauacuag-gaag
                                                                             
 
-hHOUAIR_exon7   -auuuuccaugcag--uuuuaaaauguagauauau----uaauaucuggaugcauuuuc
+hHOTAIR_exon7   -auuuuccaugcag--uuuuaaaauguagauauau----uaauaucuggaugcauuuuc
 CAUYTB01        -auuuuccaugcag--uuuuaaaauguagauauau----uaauaucuggaugcauuuuc
 CAUYNF01        -auuuuccaugcag--uuuuaaaauguagauauau----uaauaucuggaugcauuuuc
 CAUYSP01        -auuuuccaugcag--uuuuaaaauguagauauau----uaauaucuggaugcauuuuc
