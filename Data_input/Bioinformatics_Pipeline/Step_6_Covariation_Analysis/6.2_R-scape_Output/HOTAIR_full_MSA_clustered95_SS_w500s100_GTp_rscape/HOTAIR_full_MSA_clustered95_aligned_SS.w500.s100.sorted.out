@@ -1,125 +1,125 @@
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1-500 nseq 28 (28) alen 458 (500) avgid 88.83 (87.94) nbpairs 123 (123)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1-500 nseq 27 (27) alen 456 (500) avgid 88.65 (87.76) nbpairs 123 (123)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,26.57]     [0 | 0 123 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,25.77]     [0 | 0 123 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_101-600 nseq 28 (28) alen 464 (500) avgid 89.12 (88.23) nbpairs 100 (100)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_101-600 nseq 27 (27) alen 462 (500) avgid 89.10 (88.19) nbpairs 100 (100)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,28.69]     [0 | 0 100 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,27.83]     [0 | 0 100 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_201-700 nseq 28 (28) alen 457 (500) avgid 90.21 (89.58) nbpairs 67 (67)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_201-700 nseq 27 (27) alen 465 (500) avgid 90.29 (89.68) nbpairs 67 (67)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,31.79]     [0 | 0 67 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,31.03]     [0 | 0 67 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_301-800 nseq 28 (28) alen 448 (500) avgid 89.64 (88.94) nbpairs 63 (63)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_301-800 nseq 27 (27) alen 457 (500) avgid 89.37 (88.67) nbpairs 63 (63)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,27.07]     [0 | 0 63 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,26.22]     [0 | 0 63 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_401-900 nseq 28 (28) alen 455 (500) avgid 87.71 (87.18) nbpairs 62 (62)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_401-900 nseq 27 (27) alen 463 (500) avgid 87.75 (87.24) nbpairs 64 (64)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,27.34]     [0 | 0 62 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,26.63]     [0 | 0 64 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_501-1000 nseq 28 (28) alen 443 (500) avgid 85.03 (84.58) nbpairs 83 (85)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_501-1000 nseq 27 (27) alen 460 (500) avgid 85.29 (84.91) nbpairs 96 (98)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.81,27.43]     [0 | 0 83 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,26.06]     [0 | 0 96 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_601-1100 nseq 28 (28) alen 444 (500) avgid 78.51 (78.06) nbpairs 95 (97)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_601-1100 nseq 27 (27) alen 459 (500) avgid 78.54 (78.13) nbpairs 103 (105)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,26.15]     [0 | 0 95 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,24.59]     [0 | 0 103 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_701-1200 nseq 28 (28) alen 457 (500) avgid 79.90 (79.49) nbpairs 92 (94)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_701-1200 nseq 27 (27) alen 464 (500) avgid 80.04 (79.68) nbpairs 85 (87)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,23.04]     [0 | 0 92 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,23.09]     [0 | 0 85 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_801-1300 nseq 28 (28) alen 468 (500) avgid 80.66 (80.36) nbpairs 102 (104)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_801-1300 nseq 27 (27) alen 474 (500) avgid 80.92 (80.63) nbpairs 99 (101)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,23.03]     [0 | 0 102 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,23.36]     [0 | 0 99 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_901-1400 nseq 28 (28) alen 469 (500) avgid 81.60 (81.23) nbpairs 93 (95)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_901-1400 nseq 27 (27) alen 464 (500) avgid 81.55 (81.23) nbpairs 90 (92)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,23.70]     [0 | 0 93 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,25.22]     [0 | 0 90 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1001-1500 nseq 28 (28) alen 445 (500) avgid 89.13 (88.77) nbpairs 87 (87)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1001-1500 nseq 27 (27) alen 445 (500) avgid 89.07 (88.79) nbpairs 87 (87)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,25.24]     [0 | 0 87 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,24.59]     [0 | 0 87 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1101-1600 nseq 28 (28) alen 431 (500) avgid 87.40 (86.82) nbpairs 75 (75)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1101-1600 nseq 27 (27) alen 433 (500) avgid 87.39 (86.91) nbpairs 75 (75)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,23.71]     [0 | 0 75 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,25.77]     [0 | 0 75 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1201-1700 nseq 28 (28) alen 417 (500) avgid 86.38 (85.64) nbpairs 69 (69)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1201-1700 nseq 27 (27) alen 403 (500) avgid 86.08 (85.27) nbpairs 59 (59)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,26.33]     [0 | 0 69 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,25.09]     [0 | 0 59 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1301-1800 nseq 28 (28) alen 317 (500) avgid 85.26 (84.10) nbpairs 51 (51)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1301-1800 nseq 27 (27) alen 303 (500) avgid 85.21 (84.03) nbpairs 47 (47)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,27.71]     [0 | 0 51 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,26.42]     [0 | 0 47 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1401-1900 nseq 28 (28) alen 222 (500) avgid 86.02 (84.66) nbpairs 45 (45)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1401-1900 nseq 27 (27) alen 222 (500) avgid 86.23 (85.20) nbpairs 45 (45)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,27.86]     [0 | 0 45 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,26.14]     [0 | 0 45 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1501-2000 nseq 28 (28) alen 164 (500) avgid 85.79 (85.41) nbpairs 28 (28)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1501-2000 nseq 27 (27) alen 150 (500) avgid 85.98 (85.51) nbpairs 28 (28)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.84,23.22]     [0 | 0 28 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,22.51]     [0 | 0 28 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1601-2100 nseq 28 (28) alen 133 (500) avgid 83.93 (83.65) nbpairs 32 (32)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1601-2100 nseq 27 (27) alen 131 (500) avgid 83.36 (82.75) nbpairs 32 (32)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.84,23.14]     [0 | 0 32 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.68,21.41]     [0 | 0 32 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1701-2200 nseq 28 (28) alen 129 (500) avgid 79.46 (78.58) nbpairs 9 (9)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1701-2200 nseq 27 (27) alen 143 (500) avgid 79.98 (78.81) nbpairs 15 (15)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,26.65]     [0 | 0 9 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.84,25.49]     [0 | 0 15 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1801-2300 nseq 28 (28) alen 225 (500) avgid 81.72 (80.50) nbpairs 36 (36)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1801-2300 nseq 27 (27) alen 238 (500) avgid 82.45 (81.19) nbpairs 37 (37)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,28.07]     [0 | 0 36 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,26.87]     [0 | 0 37 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1901-2400 nseq 28 (28) alen 318 (500) avgid 82.41 (81.05) nbpairs 52 (52)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_1901-2400 nseq 27 (27) alen 332 (500) avgid 82.34 (81.03) nbpairs 54 (54)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,28.32]     [0 | 0 52 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.82,26.90]     [0 | 0 54 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2001-2500 nseq 28 (28) alen 406 (500) avgid 83.08 (82.01) nbpairs 57 (57)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2001-2500 nseq 27 (27) alen 422 (500) avgid 82.91 (82.04) nbpairs 57 (57)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,28.69]     [0 | 0 57 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.81,27.55]     [0 | 0 57 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2101-2600 nseq 28 (28) alen 437 (500) avgid 83.08 (82.41) nbpairs 74 (74)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2101-2600 nseq 27 (27) alen 437 (500) avgid 83.02 (82.37) nbpairs 76 (76)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.81,29.09]     [0 | 0 74 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.81,28.14]     [0 | 0 76 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2201-2700 nseq 28 (28) alen 422 (500) avgid 83.27 (82.49) nbpairs 71 (71)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2201-2700 nseq 27 (27) alen 428 (500) avgid 83.15 (82.56) nbpairs 74 (74)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,26.48]     [0 | 0 71 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.83,25.87]     [0 | 0 74 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2301-2800 nseq 28 (28) alen 413 (500) avgid 83.12 (82.11) nbpairs 91 (91)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2301-2800 nseq 27 (27) alen 419 (500) avgid 82.65 (81.75) nbpairs 91 (91)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.83,26.07]     [0 | 0 91 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.81,24.91]     [0 | 0 91 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
-# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2401-2830 nseq 28 (28) alen 346 (430) avgid 83.07 (81.98) nbpairs 88 (88)
+# MSA HOTAIR_full_MSA_clustered95_aligned_SS_1_2401-2809 nseq 27 (27) alen 334 (409) avgid 83.20 (82.36) nbpairs 85 (85)
 # Method Target_E-val [cov_min,conv_max] [FP | TP True Found | Sen PPV F] 
-# GTp    0.05         [-9.82,25.65]     [0 | 0 88 0 | 0.00 0.00 0.00] 
+# GTp    0.05         [-9.81,24.59]     [0 | 0 85 0 | 0.00 0.00 0.00] 
 #       left_pos       right_pos        score   E-value
 #------------------------------------------------------------
