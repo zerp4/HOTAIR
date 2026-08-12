@@ -1,12 +1,11 @@
 >Cluster 0
 0	2536nt, >CAUYNI01... at +/98.70%
 1	2535nt, >CAUYNS01... at +/99.45%
-2	1548nt, >CAUYPQ01... at +/99.22%
-3	2526nt, >CAUYOE01... at +/99.41%
-4	2520nt, >CAUYTE01... at +/99.33%
-5	2537nt, >CAUYOS01... at +/99.72%
-6	2539nt, >CAUYTS01... *
-7	2534nt, >CAUYUD01... at +/99.41%
+2	2526nt, >CAUYOE01... at +/99.41%
+3	2520nt, >CAUYTE01... at +/99.33%
+4	2537nt, >CAUYOS01... at +/99.72%
+5	2539nt, >CAUYTS01... *
+6	2534nt, >CAUYUD01... at +/99.41%
 >Cluster 1
 0	2534nt, >CAUYOR01... *
 >Cluster 2
@@ -63,9 +62,8 @@
 3	2484nt, >CAUYPI01... at +/98.67%
 4	2484nt, >CAUYQB01... at +/98.67%
 5	2494nt, >CAUYPU01... *
-6	2494nt, >CAUYRP01... at +/99.76%
-7	2493nt, >CAUYSR01... at +/99.80%
-8	2494nt, >CAUYSQ01... at +/99.60%
+6	2493nt, >CAUYSR01... at +/99.80%
+7	2494nt, >CAUYSQ01... at +/99.60%
 >Cluster 9
 0	2493nt, >CAUYNR01... *
 1	2493nt, >CAUYNY01... at +/99.92%
@@ -135,42 +133,39 @@
 17	2170nt, >CAUYRC01... at +/99.03%
 18	2170nt, >CAUYSS01... at +/98.80%
 19	2170nt, >CAUYMZ01... at +/97.70%
-20	2170nt, >CAUYNZ01... at +/97.70%
-21	2170nt, >CAUYQN01... at +/97.74%
-22	2170nt, >CAUYRL01... at +/97.70%
-23	2159nt, >CAUYOZ01... at +/98.52%
-24	2159nt, >CAUYSH01... at +/98.38%
-25	2158nt, >CAUYTQ01... at +/98.52%
-26	2165nt, >CAUYTG01... at +/98.52%
-27	2169nt, >CAUYQZ01... at +/99.12%
-28	2170nt, >CAUYND01... at +/98.57%
-29	2112nt, >CAUYSU01... at +/99.38%
-30	2163nt, >CAUYNP01... at +/96.53%
-31	2163nt, >CAUYOF01... at +/96.53%
-32	2163nt, >CAUYPM01... at +/96.53%
-33	2163nt, >CAUYRV01... at +/96.53%
-34	2161nt, >CAUYOG01... at +/96.76%
-35	2161nt, >CAUYPD01... at +/96.76%
-36	2161nt, >CAUYOH01... at +/96.76%
-37	2158nt, >CAUYNV01... at +/96.90%
-38	2163nt, >CAUYOM01... at +/96.90%
-39	2161nt, >CAUYOV01... at +/96.85%
-40	2161nt, >CAUYQF01... at +/96.85%
-41	2161nt, >CAUYNQ01... at +/97.04%
-42	2161nt, >CAUYOJ01... at +/96.95%
-43	2161nt, >CAUYPV01... at +/96.99%
-44	2161nt, >CAUYST01... at +/96.99%
-45	2162nt, >CAUYPG01... at +/96.95%
-46	2161nt, >CAUYPN01... at +/96.85%
-47	2161nt, >CAUYOO01... at +/96.76%
-48	2166nt, >CAUYOA01... at +/97.18%
-49	2167nt, >CAUYQC01... at +/97.28%
-50	2166nt, >CAUYSA01... at +/97.28%
-51	2167nt, >CAUYOK01... at +/97.19%
-52	2167nt, >CAUYTV01... at +/97.14%
-53	2170nt, >CAUYPZ01... at +/97.05%
-54	2169nt, >CAUYRS01... at +/97.33%
-55	2168nt, >CAUYRQ01... at +/97.14%
+20	2170nt, >CAUYQN01... at +/97.74%
+21	2170nt, >CAUYRL01... at +/97.70%
+22	2159nt, >CAUYOZ01... at +/98.52%
+23	2159nt, >CAUYSH01... at +/98.38%
+24	2158nt, >CAUYTQ01... at +/98.52%
+25	2165nt, >CAUYTG01... at +/98.52%
+26	2169nt, >CAUYQZ01... at +/99.12%
+27	2170nt, >CAUYND01... at +/98.57%
+28	2163nt, >CAUYNP01... at +/96.53%
+29	2163nt, >CAUYOF01... at +/96.53%
+30	2163nt, >CAUYPM01... at +/96.53%
+31	2163nt, >CAUYRV01... at +/96.53%
+32	2161nt, >CAUYOG01... at +/96.76%
+33	2161nt, >CAUYPD01... at +/96.76%
+34	2161nt, >CAUYOH01... at +/96.76%
+35	2158nt, >CAUYNV01... at +/96.90%
+36	2163nt, >CAUYOM01... at +/96.90%
+37	2161nt, >CAUYNQ01... at +/97.04%
+38	2161nt, >CAUYOJ01... at +/96.95%
+39	2161nt, >CAUYPV01... at +/96.99%
+40	2161nt, >CAUYST01... at +/96.99%
+41	2162nt, >CAUYPG01... at +/96.95%
+42	2161nt, >CAUYPN01... at +/96.85%
+43	2161nt, >CAUYOO01... at +/96.76%
+44	2161nt, >CAUYOV01... at +/96.85%
+45	2166nt, >CAUYOA01... at +/97.18%
+46	2167nt, >CAUYQC01... at +/97.28%
+47	2166nt, >CAUYSA01... at +/97.28%
+48	2167nt, >CAUYOK01... at +/97.19%
+49	2167nt, >CAUYTV01... at +/97.14%
+50	2170nt, >CAUYPZ01... at +/97.05%
+51	2169nt, >CAUYRS01... at +/97.33%
+52	2168nt, >CAUYRQ01... at +/97.14%
 >Cluster 18
 0	2148nt, >hHOTAIR... at +/96.32%
 1	2150nt, >CAUYNF01... *
@@ -203,6 +198,4 @@
 0	2042nt, >CAUYRH01... at +/99.02%
 1	2044nt, >CAUYRK01... *
 >Cluster 26
-0	2025nt, >CAUYML01... *
->Cluster 27
 0	1384nt, >CAUYSY01... *
