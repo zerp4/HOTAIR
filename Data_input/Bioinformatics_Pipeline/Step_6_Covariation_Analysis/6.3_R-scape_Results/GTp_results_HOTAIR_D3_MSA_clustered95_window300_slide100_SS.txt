@@ -1,3 +1,0 @@
-left_pos	right_pos
-878	887
-929	987
