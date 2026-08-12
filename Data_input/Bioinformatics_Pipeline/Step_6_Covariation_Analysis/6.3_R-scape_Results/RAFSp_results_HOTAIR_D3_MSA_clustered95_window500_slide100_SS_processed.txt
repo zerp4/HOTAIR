@@ -1,0 +1,9 @@
+left_pos	right_pos	left_pos_ungapped	right_pos_ungapped	nucleotide
+318	357	271	306	A:U
+450	460	388	398	A:U
+317	358	270	307	C:G
+878	887	451	456	G:C
+446	464	384	402	G:C
+451	459	389	397	G:C
+932	965	499	510	A:U
+891	902	460	471	C:G
