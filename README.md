@@ -114,7 +114,7 @@ Processed R-scape results with covarying base pairs.
  - Structure tools:\
    ShapeMapper2 (Busan and Weeks 2018)\
    SuperFold (Reuter and Mathews 2010)\
-   deltaSHAPE (Smola et al. 2015)\
+   deltaSHAPE (Smola et al. 2015)
 
  - Bioinformatics tools:\
    Exonerate (version 2.4.0) with the est2genome model (Slater and Birney 2005)\
